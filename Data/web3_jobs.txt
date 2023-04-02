@@ -1,0 +1,382 @@
+Title: Senior Backend Firebase Developer at Ready Games Network
+Description: ABOUT READY The Ready Games Network is enabling social gaming infrastructure for the Web3 creator economy. With its $Aura token, the platform and developer dashboard enables dev teams to support their games with a social layer, support NFTs and the ability to enable Web3 game economies. Developers have access to a robust SDK allowing them to integrate various features easily into their games; features include: Cross-game 2D/3D avatar and UGC marketplace, NFT portal/ smart contract management & minting, Player wallet, Player authentication, In-Game and Blockchain currency management, Play-to-Earn mechanics, Social layer features, integration of blockchain token $Aura. With an average 2x increase in D30, average AARPU of $23, and average lift session time by 40% - developers can easily launch their Web3 mobile games.
+Link: https://crypto.jobs/jobs/senior-backend-firebase-developer-at-ready-games-network
+--------------------------
+Title: Core Protocol Engineer at Constellation Network
+Description: Role
+Constellation Network is looking for full time protocol engineers to join our team. You will be a core team member building the future of our open source distributed systems infrastructure. Protocol team engineers have direct impact on the trajectory of our layer 0 distributed ledger technology. You will contribute to the design of developer APIs, build features that enable cross-application integrations, and contribute solutions to complex systems architecture problems.
+
+About Constellation Network
+Over the last five years, Constellation has developed an alternative blockchain network and Layer 0 infrastructure technology, called Hypergraph, that is faster, cheaper, and more secure than traditional blockchain infrastructure. Constellation is also the first vertically stacked ecosystem, including a Layer 0 base-layer decentralized network infrastructure, application support and documentation to help developers build flexible web 3 applications, the Lattice Gateway for projects in our ecosystem to market their technology and cryptocurrency, and a hardware division featuring the Dor Traffic Miner, or DTM.
+
+We are an inclusive team of individuals from diverse professional backgrounds that are passionate about blockchain technology, Web3, and the future of distributed systems. We look forward to growing our team with engineers that are excited by solving challenging problems daily. Our team is 100% remote and international.
+
+Stack
+- JVM microservices
+- Functional scala (cats)
+- AWS / cloud / terraform
+
+Minimum Qualifications
+- 5+ years experience with Scala and/or Java
+- Strong background in distributed systems or big data tooling
+- Solid understanding of core algorithms and data structures
+- Familiarity with git, test + design practices, and agile software design concepts
+- Experience with TCP/IP networking, architecture, and distributed systems
+- BA/BS/PhD in computer science or related field, or equivalent experience
+
+Nice to Have
+- Interest in functional programming concepts
+- Knowledge of existing blockchain architectures
+- Knowledge of large scale data pipelines
+- Experience with or strong background with math, statistics, or topology
+- Open source contributions
+
+Benefits
+- Competitive salary
+- 100% remote team
+- Unlimited PTO
+- Equity and/or token grants
+
+Employees must live and work in American time zones.
+
+Please apply below:
+https://angel.co/l/2xWszr
+Link: https://crypto.jobs/jobs/core-protocol-engineer-at-constellation-network
+--------------------------
+Title: Fraud Analyst at U.S. Securities & Exchange Commission
+Description: U.S. Securities & Exchange Commission
+Link: https://crypto.jobs/jobs/fraud-analyst-at-u-s-securities-exchange-commission-2
+--------------------------
+Title: Web3 & DAO Marketing Manager at CRASTONIC Ltd
+Description: About the Job
+Looking for a passionate, creative, strategic-minded Web3 marketer who can plan a marketing strategy, conduct marketing activities and build/lead a marketing team to hack into the web3 market.
+
+Job Description
+
+- Work full-time remotely or in person
+- Research direct/in-direct competitors, services, and projects, analyze their strengths/weakness and provide our USP.
+- Investigate the user's interest, and pain point, and identify the needs based on the customer journey
+- Create overall marketing strategy, and activities, plan, design token economics, set KPI, and monitor
+- Build community and operate all kinds of activities such as AMA, online/real events for growth
+- Branding, PR, making partnerships with business partners & crypto ventures/service providers.
+- Catch the latest crypto, web3, NFT related conference information and hold a booth for promotion
+- Digital marketing such as Twitter, discord, and telegram in a mixture of video, and banner marketing
+- Manage & execute Contents marketing, and copywriting
+- Collaborate with BizDev, PdM, UIUX designer, and Dev teams to meet specification needs in line with business objectives.
+- Work closely with the CEO and teams to meet specification needs in line with business objectives. ️Provide feedback from the market/user to improve our product and pursue successful customer value experiences.
+- Lead & manage the marketing team to be hired in the future and propose innovative ideas from marketing/our target user point of view
+
+Basic Qualifications
+
+- At least 3 years of B2C marketing experience or relevant experience in web 3 project marketing
+- Good knowledge of crypto, dApps, web3 protocols, DAO, NFT services, and their marketing strategies. (MUST of MUST)
+- Knowledge of token economics.
+- Logical, critical, strategic, and creative thinking from high-level to deep =execution level.
+- Ability to be self-motivated and detail-oriented while producing high-quality, accurate work in a startup environment.
+- Quick research skills, and document organization skills
+- Ability to design KPI and run PDCA
+- Conduct all kinds of digital/SNS marketing
+- Successful community-building experience in online/real
+- Good presentation skills using any office tools such PowerPoint, excel/spreadsheet, and design thinking tools such as miro/mural.etc.
+
+Preferred Qualifications
+
+- Token economics design experiences
+- Community management or contribution of DAO
+- Good understanding of protocol & technical aspects of blockchain
+- Good understanding of NFT market, and creator's mindset
+- Led successful token-based fundraising experience
+- Experience in launching and growing a social networking account and community from scratch
+- UX writing or related experience
+- NFT creation or trading experience
+- Crypto asset investment and management experience
+- Creator experience or familiarity with industry networks
+- Graphic Design experiences
+- Contents Writing (Blog) experiences
+- Video Editing experiences
+- Performance Marketing experiences (Paid Ads + Analytics)
+
+Mindset Expectation
+
+- Believe in the future of crypto/blockchain
+- Quick & Dirty (Being done is better than perfect)
+- Creative thinking, Idea driven by strategy
+- Think deep & multi-angle/layer
+- Enjoy chaos and challenge to create the new experiences
+- Passionate for 0 to 1 product marketing
+- Work with the team, and fight for the user
+- Love for the startup and innovation
+
+=============================
+If you're interested, feel free to apply first. We will also provide you with details of the new service we are working on at the time of the interview.
+
+We are looking forward to hearing from a highly motivated marketer with a creative mind who wants to leave a mark in web 3 spaces!
+Link: https://crypto.jobs/jobs/web3-dao-marketing-manager-at-crastonic-ltd-at-crastonic-ltd
+--------------------------
+Title: Senior Blockchain Developer at Toptal
+Description: Design your full-time freelance career as a top freelance developer with Toptal.
+
+* Please copy and paste this link (https://topt.al/kRc4g6) in a new tab to apply directly through our page.
+
+Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift.
+
+Toptal is an elite talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom. Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally.
+
+As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions.
+
+That’s why the world’s top 3% of developers choose Toptal. Developers in our network share:
+* At least 3 years of professional experience as a software developer
+* Strong knowledge of bitcoin-like blockchains
+* Strong software development background
+* Strong knowledge of common algorithms and data structures
+* Experience working with large codebases
+* Experience working with open-source projects
+* Proficiency in one of the following languages: C++, Java, JavaScript
+* Familiarity with basic cryptography
+* Familiarity with P2P networks
+* Strong knowledge of concurrency and writing efficient and safe multithreaded code
+* Full-time availability is a strong advantage
+
+
+If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by applying here:
+https://topt.al/kRc4g6
+Link: https://crypto.jobs/jobs/senior-blockchain-developer-at-toptal-1
+--------------------------
+Title: EOS/Graphene Blockchain Developer at META 1 Coin
+Description: Crypto project looking for experienced EOS/Graphene blockchain developer to assist in development of graphene based blockchain. Must have a very strong understand of Graphine blockchain technology and how it works. Must be responsible, communicative, work hard and adhere to delivery schedules. Experience includes:
+
+-Minimum 8-10 Years of C++ Experience
+-Experience developing, deploying and building Graphne based blockchain
+-Fluent in English
+-Minimum of 4 years of blockchain development experienced
+-Reliable
+-Communicative
+-Adhere to tight deadlines
+
+For the right developer this is a opperunity for an exciting and long career with a cutting edge project.
+Link: https://crypto.jobs/jobs/eos-graphene-blockchain-developer-at-meta-1-coin
+--------------------------
+Title: Copywriter at Swisstornik
+Description: Swisstronik is a Layer-1 solution designed to build scalable decentralized applications that ensure users' data protection and privacy while remaining in compliance with local blockchain policies.
+Link: https://crypto.jobs/jobs/copywriter-at-swisstronik-20
+--------------------------
+Title: Senior Backend Engineer at Coinshift
+Description: Treasury Management for DAOs & Companies
+Link: https://crypto.jobs/jobs/senior-backend-engineer-at-coinshift
+--------------------------
+Title: Senior Blockchain (nodeJS / Solidity) Engineer at CRASTONIC Ltd
+Description: About the Job
+Looking for a skillful and passionate Blockchain engineer to make continuous innovations in web3 spaces.
+
+◾︎About the Role
+As a Blockchain Engineer, you will be involved in the launch and development of new businesses with world-class blockchain engineers. Working together with the CEO, designers, and other engineers, you will create a business that can expand globally!
+If you want to bring a service to the world that you have created from scratch, not something that has already been created, or if you want to form your own ideal engineering organization, this is the perfect opportunity for you!
+
+◾︎What we are doing
+Our mission is "Create Infrastructure for CREATOR", and we want to support the new experience value created by the creativity of creators around the world.
+This time, we are looking for a development engineer for a new business utilizing blockchain technology.
+As a global company with more than 70% foreign employees, we are taking on challenges in the global market.
+
+◾︎Job Description
+- Work full-time remotely or in person
+- Investigate and specify ideas for innovative blockchain applications.
+- Design and develop a proof of concepts for blockchain applications.
+- Design and develop blockchain-related microservices and APIs comfortably.
+- Plan and execute performance tests using test-driven development.
+- Collaborate with BizDev, PdM, Marketing, and teams to meet specification needs in line with business objectives.
+- Work closely with CEO and teams to meet specification needs in line with business objectives. ️Improve products and pursue successful customer value experiences.
+- Lead & manage Web3 team and propose innovative ideas from a technical point of view
+
+◾︎Basic Qualifications
+- At least 5 years of professional engineering experience.
+- At least 3 years of experience with Solidity, NodeJS, or related languages.
+- Familiarity with NodeJs, Golang, Rust, or similar languages.
+- Ability to be self-motivated and detail-oriented while producing high-quality, accurate work in a startup environment.
+- Good knowledge of design patterns for decentralized applications
+- Expertise in writing and working with Rest APIs.
+- Knowledge of gRPC services is an added advantage.
+
+◾︎Preferred Qualifications
+- Ability to independently debug problems across the full stack.
+- Experience in developing, deploying, and maintaining blockchain applications is a big plus.
+- Experience in an RnD role is a plus.
+- History of open source contributions on GitHub
+- Knowledge of cryptocurrency/token economics.
+- Ability to design the full architecture from scratch based on business requirements
+- Designed & Developed DAO structure
+- Writing new, reusable, testable, and efficient code to build and support Web3 applications
+Link: https://crypto.jobs/jobs/senior-blockchain-nodejs-solidity-engineer-at-crastonic-ltd-at-crastonic-ltd
+--------------------------
+Title: Junior DevOps Engineer at Zero Knowledge Validator
+Description: ZKV is a small, expert team with a diverse skill set. We’re driven by a mission, bringing privacy and Zero Knowledge tech, the next frontier of Web3. We strive to provide high-performance infrastructure to blockchain networks, which has allowed us to be a top validator on Cosmos, Moonbeam and Polkadot.
+Link: https://crypto.jobs/jobs/junior-devops-engineer-at-zero-knowledge-validator
+--------------------------
+Title: Smart Contract Engineer at Sismo
+Description: Sismo is an attestation protocol that enables users to selectively reveal data derived from their web2 or web3 accounts. Users aggregate their identity and use it to generate ZK proofs that applications can verify through our on-chain and off-chain verifiers. The resulting privacy-preserving attestations—stored in on-chain smart contracts or off-chain databases—are utilized by applications for access control and reputation curation. Standing at the crossroads between digital identity, web3 social, and zero-knowledge technology, we were recently featured in a list of Vitalik Buterin’s - vitalik.ca/general/2022/12/05/excited.html - . Our Factory - factory.sismo.io - the portal for integrating Sismo — currently enables developers to create ZK Badges, a tokenized form (SBTs) of attestations issued by the Sismo protocol. Our tightknit team of crypto natives has been working on Ethereum since 2015 (ex Aave, EthCC, Kleros, ConsensSys). To realize our vision, we raised $10,000,000 from some of the biggest names in crypto (angels such as Lens, Optimism, Starkware, the Ethereum Foundation, Curve, Aave, Snapshot, Guild, and top VCs like Framework, Delphi, IDEO or Seedclub Ventures). Team members are exposed to the best training, conferences, and hackathons the space has to offer. You can expect to join a mission-driven crypto-native team passionate about privacy, decentralization, and the technology that will power the future of the web. Learn more: docs.sismo.io
+Link: https://crypto.jobs/jobs/senior-smart-contract-and-zk-engineer-at-sismo
+--------------------------
+Title: Senior Blockchain Developer at Ad-Yo
+Description: Ad–Yo — is a scalable open-source platform based on blockchain technologies by the founders of the FinTech company Lunu. Our mission is to change the way advertisers and customers interact. Ad–Yo protocol was created to improve ad targeting, promote data authenticity and security, and ensure a fair distribution of profits.
+Link: https://crypto.jobs/jobs/senior-blockchain-developer-at-ad-yo
+--------------------------
+Title: Operations Management at ThorFi
+Description: ThorFi is a dynamic ecosystem of gamified utilities built on the Avalanche blockchain
+Link: https://crypto.jobs/jobs/operations-management-at-thorfi
+--------------------------
+Title: Chief Technology Officer (CTO) at Ridotto
+Description: Crypto gambling is a billion-dollar industry — however, until now, beyond skirting regulation with non-fiat assets, crypto gambling hasn’t innovated beyond Web2 online gambling. It isn’t decentralized! Ridotto is a multi-chain and decentralized lottery and gambling protocol that introduces permissionless casino ownership and open source bankrolling of slot machines, lotteries, table games, bingo, sports betting, and so much more. Our approach is to provide an open protocol driven by the community, where users can play, build, and even bankroll casino games, thus earning generous passive income. Now, YOU are “The House.”
+Link: https://crypto.jobs/jobs/chief-technology-officer-cto-at-ridotto
+--------------------------
+Title: Senior Server-Side Engineer at CRASTONIC Ltd
+Description: **JOB DESCRIPTION**
+
+- As a server-side engineer, you will be in charge of designing the optimal architecture for the Decir service including developing APIs for Decir FE app, backend functions system administrators, and maintaining infrastructure on Google Cloud Platform. All functions must be clearly tested and well documented, verified by the leader.
+- As an active developer, you will think about what kind of features users will need, and you will be entrusted with overall server-side work such as application performance improvement, tuning, analytics, and function development necessary to improve UX.
+- Furthermore, you will need to work on different technologies not limited to NodeJS, and Python…but can be HTML, CSS, React…Depends on Business requirements.
+- Also, depending on your performance, you may be asked to play a role such as a tech lead, EM, or CTO as the development system expands in the future.
+
+**THOSE WHO WE NEED**
+
+- Those who have a high degree of empathy for our vision and values
+- Those who have good communication skills (better if you have remote working experience), respect other members, and behave professionally in remote work environments.
+- Those who can create a design image and plan, and actively proceed with development by moving their own hands.
+- Those who can think about how development should be from both UX and technical perspectives can proceed while proposing and discussing ideas with the team.
+- Those who are motivated to grow with a view to stepping up, such as team lead and management
+- Those who want to create a top service from scratch
+- Those who feel motivated to steadily improve the quality of their products
+- Those who can explain logically and clearly to people with low literacy
+
+**REQUIRED SKILLS**
+
+- Experience in developing and operating services using Golang and GCP
+- Development experience using RDBMS such as Postgres
+- Experience working with Docker, Linux commands, vim
+- Experience developing WebSocket
+- Experience in developing a web apps using HTML, and CSS (i.e making content management systems)
+- Work experience using git, GitHub, or similar version control tools and services
+- API implementation experiences such as REST and RPC
+- Estimated work experience 3-5 years
+- Fluent English communication skills
+
+**PREFERED SKILLS**
+
+- Experience using K8s
+- Experience using CI/CD services such as GCP Cloudbuild, GitHub CI
+- Experience in developing high-performance, distributed, large-traffic web applications
+- Experience in using other backend technologies like NodeJS, WordPress PHP, NextJS
+- Experience in working with ReactJS or Solidity
+- Experience working in Blockchain is a plus
+Link: https://crypto.jobs/jobs/senior-server-side-engineer-at-crastonic-ltd
+--------------------------
+Title: VP of Finance & Accounting at Parcl
+Description: We’re on a mission to bring real-estate to everyone.
+
+How does Parcl work?
+The Parcl Data Feed tracks the price per square foot of neighborhoods across the U.S. This data feeds into a smart contract, allowing users to invest in the underlying price movement of each real estate market. This lets investors gain exposure to the most sought-after neighborhoods with no minimum investment, immediate liquidity, and low transaction fees.
+
+With Parcl you can build your dream real estate portfolio and trade your favorite neighborhoods just like you would Bitcoin, Ethereum or other crypto assets.
+
+Read more about our Team & Parcl here, also follow us on Twitter to join the conversation!
+
+What You’ll Do:
+Partner with Chief People, Purpose & Culture officer + In-house Counsel to manage global payroll and workforce (headcount) planning
+Partner with Chief People, Purpose & Culture officer + In-house Counsel on creating/updating compensation and incentive plans
+Conduct risk management for the business & protocol
+Work closely with founders and Counsel on tokenomics
+Interface with 3rd party crypto platforms and vendors globally
+Ensure all accounting activities and internal audits comply with tax and financial regulations:
+Expense management (review & reimburse)
+Forecast monthly, quarterly and annual results
+General accounts payable & bookkeeping
+Manage cash flow and resource allocation
+Conduct profit and loss analyses
+Recommend cost optimizing solutions
+Prepare reports for board meetings
+Lead and support planning and implementation of strategic initiatives
+Recommend cost optimizing solutions
+
+Skills You’ll Need:
+Qualifications in Accounting, Finance, or relevant field
+Strong understanding of traditional finance primitives
+Demonstrated leadership experience as a VP/Director of Finance, or a Finance related role at a Web3/DeFi start up, or 2+ years of experience a high output team at an Investment Bank, major Investment Management firm, or Big 4 Accounting firm
+Detailed understanding of cash flow management, bank reconciliation and bookkeeping
+Strong analytical and decision-making skills
+Proven experience with budgeting and risk management
+Very strong Excel skills
+Proficiency in accounting software
+Skills We’d Love for You to Bring:
+An interest and curiosity in crypto, DeFi, synthetic real estate, and Web3
+Basic or better understanding of DeFi primitives
+Awareness of Solana and its emerging DeFi ecosystem
+Hands-on crypto/ blockchain experience (professional or personal), especially DeFi relating to yield farming, NFT’s, custodial/non-custodial solutions and staking
+A desire to work in a decentralized, fast-paced environment with a high degree of ownership, accountability and independence
+CFA/CPA qualifications
+
+Parcl’s Culture & Purpose:
+We are working on a massive opportunity. To achieve our mission, we must establish a culture of constant growth that maximizes the potential of each team member, generating the collective momentum necessary to rise to this timely occasion. Some things to know about us:
+Our Values:
+Be Gritty: Grit is our intense focus, driving persistence in our craft. We’re always striving for excellence. We’re pleased, but never satisfied. Developing ourselves is core to who we are. End to end, we own accountability, to our community, to each other and to ourselves. We don’t let setbacks define us, instead we welcome challenges in order to grow and unleash our potential.
+Unleash Courage: We embrace the unknown by trusting that everything we have done has prepared us for what we have ahead. We put our focus and energy into our ability to listen, trust and be courageous in the moment. Our strength comes from our vulnerability and assuming positive intent. We never shying away from uncomfortability. Sometimes we’ll need to rumble, but we know our greatest asset is our ability to be tackle each problem with the confidence that we were designed to solve it together.
+
+We’re Voyagers: Curiosity is in our DNA. We’re energized by outlandish ideas. While we don’t always know what’s ahead of us, we are agile and open to the unknown. We’re not just expanding an industry, we are erasing the physical limits set on it. We set trends and redefine rules. We use data and decentralization to unify and unveil. We care about shaping the world and beyond. . .
+Embrace Gratitude: We lead with empathy. We don’t take the simple things for granted. We’re a group of people with a compelling and unique opportunity. Our energy and time are our greatest currency, let's enjoy the ride. Be here, right now. LFG.
+Read more about our Team & Parcl here, also follow us on Twitter to join the conversation!
+
+At Parcl, we believe in driving equity in real-estate and beyond. As an Affirmative Action and Equal Opportunity Employer, we take diversity and inclusion very seriously and are committed to building a team that represents a variety of backgrounds, perspectives, and skills. This means that all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, gender perception or identity, national origin, disability, veteran status, or any other legally protected basis. We will also ensure that qualified applicants with protected disabilities are provided reasonable accommodations. If you have a specific need that requires accommodation, please send an email to support@parcl.co. At Parcl, we stay true to our mission by ensuring that our team can be anyone’s team and the more inclusive we are, the better our work will be.
+Link: https://crypto.jobs/jobs/vp-of-finance-accounting-at-parcl-2
+--------------------------
+Title: Brand Partner at Blockworks
+Description: We’re a fast-growing financial media brand that delivers news and insights about bitcoin and crypto to millions of investors. Our content, newsletters, podcasts and events provide investors with the critical analysis and information they need to make smarter decisions about digital assets. We’re passionate about what we do, and are looking for creative, curious, hard-working individuals who want to make an impact.
+Link: https://crypto.jobs/jobs/brand-partner-at-blockworks
+--------------------------
+Title: Senior Solidity Engineer (Remote) at Lorem Labs
+Description: We’re a global creator collective, not an agency 🎨 || We build digital products from pitch to launch, and beyond 🚀 || ✔️ Nomadic lifestyle = always on the edge of our seat || ✔️ Never too comfortable = always inspired & improving || ✔️ No office = maximum value, minimum overhead
+Link: https://crypto.jobs/jobs/senior-solidity-engineer-at-lorem-labs
+--------------------------
+Title: Backend Developer at META 1
+Description: Founded in 2017 by decentralized finance visionaries, META 1 Coin is the world's first appreciating stablecoin secured by gold. We believe that Satoshi Nakamoto's vision for blockchain technology was to provide a solution to the corrupt centralized financial system. In that light, META 1 has built an complete exosphere called METANOMICS that creates an antidote to control and centralization of money. META 1's use case is to become a replacement for sovereign currency, allowing humans to transaction freely in commerce, on a platform built on Empowerment and Abundance.
+
+Job Description
+
+At META1, you will work on cutting edge blockchain technology with a passionate team of human beings who want to change the world. You will be exposed to a range of exciting new technologies and tools while building a cutting edge decentralized financial system.
+
+Responsibilities:
+
+As a back end engineer you will be responsible for building, maintaining, updating and developing a wide range of applications and micro services for our DEX and other applications.
+
+Required Experience:
+
+
+6-8 Years of industry experience as a back end developer
+
+
+3-5 Years of Hyperleger Blockchain development experience
+
+
+Strong knowledge and experience in a variety of programming languages such as Node.js, and JavaScript. C++ and Python are also highly desired but not required.
+
+
+Very strong computer science fundamentals and problem solving skills
+
+
+Contribute to design and process improvement discussions with the team
+
+
+Excellent communication and collaboration skills
+
+
+Experience with Graphene based blockchains a major plus
+
+
+Contributions to open source code bases
+
+
+Excellent organizational and time management skills
+
+
+Willingness to learn new languages and skills
+
+Apply
+Please include your CV/Resume with cover letter and a link to your GitHub.
+Link: https://crypto.jobs/jobs/backend-developer-at-meta-1
+--------------------------

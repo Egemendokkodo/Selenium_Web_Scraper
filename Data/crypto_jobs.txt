@@ -1,0 +1,638 @@
+Title: CMO
+Description: Job Description
+PixelSoul is an identity and loyalty platform for gamers and games. 
+We are looking for someone that is deep in web3 and the NFT space. This person needs an incredible understanding of web3 communities. In this role, you’ll need to get the platform from zero users to a million. 
+Responsibilities
+Define brand marketing strategy and content creation, mapping it with quarterly goals;
+Lead and oversee the day-to-day execution of marketing programs, strategies and multi-channel digital marketing execution
+Drive out deliverables from the team and extended marketing team
+Collaborate with other brands and projects
+Be an expert by researching industry trends
+Conduct competitive analysis to understand industry trends, curate competitive intel, and develop and share key insights
+Develop presentations and training materials to corporate development and brand presentations
+Provide direct PR oversight and direction internally and with agencies
+Partner with external vendors and creative agencies to develop ad assets, landing pages, email copy, etc. for content syndication and demand gen programs
+Create compelling content for social and community forums
+Requirements
+Creativity off the charts
+Experience in being a one-man army in a startup
+Previous experience in an NFT project or a web3 project with massive focus on community building
+3+ years of Director-level marketing experience
+Strong analytical skills and business acumen
+Experience leading marketing growth strategies and growth-hacking
+Demonstrates a strong understanding of social media, social media platforms, search, digital marketing and metrics.
+Experience analyzing and optimizing marketing programs and growth initiatives
+(Big Plus) Established connections in the web3 space.
+Link: https://cryptojobslist.com/jobs/cmo-pixelsoul-remote-1
+--------------------------
+Title: Marketing Lead
+Description: Job Description
+Marketing Lead will work directly with product team leaders, business development team and operational leaders and act as a marketing and business expert, making decisions that will affect current and future marketing and project growth. Not usually focused on the routine tasks of the marketing team, but still must be an expert in all areas, tools and activities of marketing and have the ability to be a playing coach.
+Ready to join our team? Apply below and let us know, what you’ll bring to this role.
+You will 🚀
+Driving revenue by increasing sales through marketing activities
+Create a marketing strategy that achieves those profit, product, and growth goals through a range of marketing functions and activities
+Maintain and report on marketing budgets
+Work with other project teams to maximise marketing-related outcomes
+Act as a mentor to the marketing team
+Control of digital agencies, SMM and PR activities
+Setting up and maintaining complex analytics of marketing channels
+Independent management of advertising companies in digital (PPC/Brand/Media)
+Management of event marketing activities
+Participation in the development of promotional materials
+Keep users front and centre in the design and implementation of solutions
+Use data and metrics to make evidence-based decisions
+Drive ROI generating content marketing + customer journey strategies
+You have 🤓
+Experience in managing performance and brand marketing
+Proven successful experience in developing and launching a marketing strategy from scratch
+Experience running successful marketing campaigns
+Analytical mindset and data-driven culture building experience
+Exceptional project management skills and great attention to detail
+Passionate about next generation finance and blockchain technology
+Understanding the DEFI and CEFI product landscape
+Fluent English
+What we offer ➡️
+At P2P.org we have a team of experts with their own unique approach and ownership culture. Together we gain experience and make dreams come true! 🌟
+Remote working from any part of the world to your liking as long as your business hours fit Cyprus time zone
+Work from anywhere in the world: an international distributed team
+Competitive salary level in $
+Well-being program
+Mental Health care program
+Compensation for education, including English & professional growth courses
+Equipment & co-working reimbursement program
+Overseas conferences, community immersion
+Positive and friendly communication culture
+P2P.org is an equal opportunity employer. All applicants will be considered for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, veteran status, or disability.
+Link: https://cryptojobslist.com/jobs/marketing-lead-p2p-validator-remote
+--------------------------
+Title: Social/Sales (Graphic) Designer
+Description: Job Description
+We are looking for a social/sales designer to assist us in creating innovative visual concepts that will contribute to the development of our brand on social media. 🔥
+The Social\sales designer role is a critical one that involves a direct collaboration with product team leaders, business development team members, and operational leaders. As such, it offers a great opportunity to exercise one's creativity and strategic planning skills in a variety of contexts. The Social\sales designer role is an exciting and dynamic one that is sure to provide ample opportunities for personal and professional growth 🔝
+With us you have a chance to become a pioneer in development of unique features for web3 technologies 💪
+You will 🚀
+Developing and sharing various social media content like graphics, videos, and other forms of content
+Creating attractive social media posts to catch the audience's attention
+Designing creative and interactive presentations for pitch decks, demo days, online conferences etc.
+Developing landing pages for marketing purposes via Tilda, Webflow, Wix or other software
+Establish and implement strategies for driving and increasing online traffic
+Merch and package design for the events
+You have 🤓
+Bachelor’s Degree in Graphic Design or Computer Sciences
+Proven work experience as a Social Media Assistant, Social Media Executive, or a similar role in the Marketing department
+Understanding of social media principles and best practices
+Experience creating posts, visuals, and videos for social media
+Highly creative and motivated individual
+Good communication skills
+Fluent English
+Good time management and organizational skills
+Portfolio to present your work
+Bonus if you have 😎
+Experience working or passion in decentralized technology concepts
+What we offer ➡️
+At P2P.org creativity is encouraged, a positive atmosphere is fostered and high-quality standards of work are established. We do not hesitate to say that we have unique expertise in the market.
+At P2P.org we have a team of experts with their own unique approach and ownership culture. Together we gain experience and make dreams come true! 🌟
+Remote working from any part of the world to your liking as long as your business hours fit Cyprus time zone
+Work from anywhere in the world: an international distributed team
+Competitive salary level in $
+Well-being program
+Mental Health care program
+Compensation for education, including English & professional growth courses
+Equipment & co-working reimbursement program
+Overseas conferences, community immersion
+Positive and friendly communication culture
+P2P.org is an equal opportunity employer. All applicants will be considered for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, veteran status, or disability.
+Link: https://cryptojobslist.com/jobs/social-sales-graphic-designer-p2p-validator-remote
+--------------------------
+Title: Chief Marketing Officer
+Description: Job Description
+You will be responsible for SpectroCoin and Bankera's marketing. Bankera is our spin-off focused on providing financial services 
+Your main responsabilites will include:
+- Lead copywriting and ensure, that the right jargon is used so both users and search engines can understand our messages
+- Develop marketing strategies for new markets
+- Alling internal and external communication
+- Manage online presence and outreach
+- Introduction of new products to the market
+Key requirements:
+- Perfect English language skills
+- 2+ years of experience of working in crypto marketing
+- Understanding not only of crypto, but also of fintech industries
+- Being able to drive team and work with other teams (design, legal, business development).
+Link: https://cryptojobslist.com/jobs/chief-marketing-officer-spectrocoin-estonia
+--------------------------
+Title: DevOps Engineer
+Description: Job Description
+Description
+As our DevOps Engineer, you will be helping us build and maintain blockchain networks and protocols. You will work on improving our current infrastructure including security, automation, and monitoring among other things. You will also have the chance to dive deep into new blockchain protocols, run testnets, build secure and scalable infra and maintain it.
+What will you do?
+Build secure and reliable infrastructure to monitor, detect and mitigate performance and security issues
+System administration activities for Linux servers, which includes routine, proactive daily management of the health, stability, and availability of system infrastructure
+Create and maintain system procedural and technical documentation
+Stay up to date and build on peer-to-peer networking security best practices
+Create, maintain and communicate threat models + risk assessments for all systems we operate
+What excites us about you?
+You have experience as DevOps/SRE/Infrastructure engineer
+You have experience managing server infrastructures with high availability requirements
+You had designed secure networks, systems, and application architectures
+You had set up and maintained software in both data centers and cloud environments
+You have a deep understanding of sockets, full networking stack, and Linux security
+You possess the knowledge of building automation and CI/CD processes and tools
+You are experienced with Docker, Kubernetes, and other cloud deployment technologies
+You have flexibility, teamwork, and you are comfortable with ambiguity, able to take charge and get things done despite the unknowns
+What will be great to have?
+You have an understanding of the blockchain space and blockchain technology
+You possess knowledge of cryptography and security best practices
+You have contributions to open source communities
+If those describe you, this is the right opportunity for you!
+Why are we awesome you ask?
+We are a truly global team! We are digital nomads coming from more than 12 different countries, working from wherever we want. We have a collective mission, to provide meaningful services and bring a unique value to users within the crypto space.
+We are looking for fun, curious, and committed individuals to swim with us!
+Requirements
+A BSc/BA degree in Computer Science or a relevant field
+Link: https://cryptojobslist.com/jobs/devops-engineer-stakefish-remote
+--------------------------
+Title: Web3 Solidity Bootcamp | Job Guaranteed 🚀
+Description: Job Description
+Our comprehensive curriculum covers a wide range of topics, including DeFi, NFTs, Ethereum, Solidity, Smart Contracts, Security, Gas Optimization, and more. Our students benefit from personalized, one-on-one mentorship sessions every week with industry experts.
+We are committed to providing our graduates with job opportunities and offer a job guarantee upon completion of our 16-week rigorous and effective training program. Our partnerships with top industry players such as Alchemy, Quicknode, and others enable our graduates to access the best tools and resources available and increase their chances of getting hired.
+Our bootcamps are entirely remote and taught by experienced instructors who are experts in the Web3 industry. Join us today and take your career and income to the next level with Metana.
+Link: https://cryptojobslist.com/jobs/web3-solidity-bootcamp-job-guaranteed-metana-inc-united-states-united-kingdom-canada-europe
+--------------------------
+Title: Senior Software Engineer
+Description: Job Description
+Do you self-identify as a great problem solver (not just a coder)?  
+Have you been honing your innovation craft for years yet yearning for more complex challenges?  
+Does the opportunity to play a key role in the launch of a software platform with massive impact (for millions or even billions of people) excite you?  
+If you’ve answered with 3 resounding yeses, then we want to meet you!  
+What We Expect
+We are a cutting-edge web3 infrastructure scale-up project seeking a few very talented developers who are not just looking for a job but want to be challenged to accomplish great things in an exciting venture.   
+We are the veterans of many successful startups and will put you on the accelerated learning curve toward your future success.  
+This position requires a great understanding of large-scale distributed computing, storage, and content delivery systems and web3 technologies.  
+You'll be immediately challenged to take ownership of key development track(s) within one of our innovation squads: 1. Decentralized Data Cloud Squad, 2. Blockchain Squad, 3. Tools, Services & Integrations Squad.  
+Once placed in a squad, you will own and drive the design, prototyping, testing/implementation (yes, tests are an integral part of implementation), simulating, and CI/CD of key components of our platform in a highly collaborative and iterative manner across squads.  
+Our Ethos
+We look for a few things across all hires we make at Cere, regardless of role or team: 
+We seek teammates who will thrive in our fast-paced work environment, where we default to methodical, simulation-driven, fast development iterations and a first-principle thinking mindset.
+We crave teammates with high standards and strong discipline, embracing a growth mindset to continuously learn and incrementally improve habits and processes.
+We require contributors to have excellent communication skills (esp. written), for everything must be well organized and tracked in Notion, Slack, Wiki’s, etc. We want autonomous, goal-oriented individuals who embrace transparency and accountability. No one wants to micro-manage others.
+We need good teammates who are generally cool people who want to be part of a great team & decentralized community where everyone truly helps and challenges each other to learn/grow by innovating together towards greater shared goals. Embracing the building of such a collaborative community is the only way we can sustain rapid innovation (and the only way to live/work, really).
+  Requirements:
+5+ years of experience (preferred 7+) working as a software engineer on storage or distributed systems, including content delivery.
+Extensive programming experience with Go.
+Experience in at least one of the following product architecture development: blockchain network, decentralized storage, CDN, p2p network.
+In-depth understanding of decentralized systems, blockchain, and web3, as well as system design, data structures, and algorithms.A solid theoretical basis in game theory and economics for protocol development.
+Nice to have:
+Experience with at least one modern language such as Rust, Typescript, Java or Kotlin.
+Expertise in database engine internals (storage), including indexing, access methods, concurrency control, logging, caching, transaction processing, replication, backup restore, and buffer management.
+Proficiency in database engine internals (query processing), such as query compilation, optimization, execution, and parallel execution.
+Experience with decentralized storage systems like IPFS.
+Experience developing SDKs and contributing to open-source projects.
+Knowledge of distributed systems, including consensus-based quorum replication and NoSQL system implementation.
+Experience in development for “Dotsama” ecosystem (Polkadot, Kusama, parachains, substrate-based blockchains).
+Understanding of blockchain network protocol development, its economics and game theory.
+Academic background in consensus algorithms, decentralized and distributed systems, cryptography, or other web3-related topics.
+A bit more about our Multinational, High-Performance (and primarily remote) Team Join a highly talented multicultural team that is based all over the world. We have offices in San Francisco, New York, Warsaw, Amsterdam, Berlin, and several locations in Asia. As stated above, we make remote working possible by embracing our ethos, yet many teams also travel to meet in person every 1-2 months. We all want high degrees of autonomy and flexibility to make life and work fun, but transparency, accountability/ownership are the requisites.
+Link: https://cryptojobslist.com/jobs/senior-software-engineer-cere-network-poland
+--------------------------
+Title: Marketing Specialist
+Description: Job Description
+Do you self-identify as a great problem solver? (and not just a marketing specialist)
+Have you been honing your innovation craft for years, yet yearning for harder challenges and bigger problems?
+Does the opportunity to play a key role in the marketing team of a software platform with massive impact (for millions or even billions of people) excite you?  
+If you’ve answered with 3 resounding yeses, then we want to meet you!  
+What We Expect:
+We are a cutting-edge web3 infrastructure scale-up project seeking a few very talented marketing specialists who are not just looking for a job but want to be challenged to accomplish great things in an exciting venture.    We are the veterans of many successful startups and will put you on the accelerated learning curve toward your future success.   This position requires a great understanding of large-scale distributed computing and web3 technologies, yet we are open to talented people with less experience in web3. You'll be immediately challenged to:
+Stay up- to-date with the latest web3 developments
+Have a natural ability to tell stories, taking complex information and converting it into compelling narratives
+Seize the initiative and gain the necessary aptitude to thrive in what is expected to be the next generation of the internet.
+Our Ethos:
+We look for a few things across all hires we make at Cere, regardless of role or team: 
+We seek teammates who will thrive in our fast-paced work environment, where we default to methodical, simulation-driven, fast development iterations and a first-principle thinking mindset.
+We crave teammates with high standards and strong discipline, embracing a growth mindset to continuously learn and incrementally improve habits and processes.
+We require contributors to have excellent communication skills (esp. written), for everything must be well organized and tracked in Notion, Slack, Wiki’s, etc. We want autonomous, goal-oriented individuals who embrace transparency and accountability. No one wants to micro-manage others.
+We need good teammates who are generally cool people who want to be part of a great team & decentralized community where everyone truly helps and challenges each other to learn/grow by innovating together towards greater shared goals. Embracing the building of such a collaborative community is the only way we can sustain rapid innovation (and the only way to live/work, really).
+  Responsibilities include:
+Create engaging content by managing the production of exciting and shareable content, such as blog articles, social media posts, videos, and infographics
+Help us maximize our reach and engagement using the latest growth hacking tools and techniques.
+Track relevant metrics using analytics tools, monitor KPIs and report to senior management on campaign effectiveness.
+  Requirements:
+A Bachelor's degree in Business, Marketing, Communications, or a related field is preferred for this position; however, an exceptional portfolio of work may be a substitute if a degree is not held.
+Strong Web3, crypto and NFT understanding is essential.
+Be open to traveling periodically to attend face-to-face team working weeks.
+3 plus years of experience in Marketing and/or Advertising.
+1 plus year experience in project management.
+Collaboration tooling proficiency (preferably Notion).
+Experience running a structured marketing process at a growing technology company.
+Strong communication and collaboration skills, with the ability to tailor messaging to a wide variety of audiences at differing levels.
+Excellent analytical, problem-solving and decision-making skills.
+Flexibility to work within UTC +/- 2 time zones.
+  A bit more about our Multinational, High-Performance (and primarily remote) Team: Join a highly talented multicultural team that is based all over the world. We have offices in San Francisco, New York, Warsaw, Amsterdam, Berlin, and several locations in Asia. As stated above, we make remote working possible by embracing our ethos, yet many teams also travel to meet in person every 1-2 months. We all want high degrees of autonomy and flexibility to make life and work fun, but transparency, accountability/ownership are the requisites.
+Link: https://cryptojobslist.com/jobs/marketing-specialist-cere-network-europe-uk
+--------------------------
+Title: Business Development & Partnerships Manager
+Description: Job Description
+Role Summary
+As Business Development & Partnerships Manager you will contribute knowledge and experience of the web3, metaverse, blockchain and crypto ecosystem to inform the business development strategy. 
+The successful candidate will establish partnerships with potential crypto, NFT, phygital, and fashion partners. In addition, the role will manage the full sales lifecycle, from establishing connections to negotiating and closing deals. 
+Key Responsibilities:
+Establish new partnerships and targeted sales pipelines via informed outreach 
+Lead the negotiation of complex partnerships across various products in the product suite
+Source, identify, and develop new initiatives to drive product adoption 
+Present and communicate the product portfolio and opportunities to partners
+Build and maintain relationships with key decision makers internally and externally and share developments and market insights with all stakeholders
+Work with other teams within Boson Protocol (product, marketing, etc) to bring new ideas and products to the market which will benefit our partners
+Track and report pipeline status, health, wins/losses, and progress towards goals
+Must have skills and attributes:
+5 years + experience in business development, inside sales, and/or technical sales
+At least 2 years of experience in blockchain, cryptocurrency, and NFTs 
+Background in brand partnerships, brand collaborations, or eCommerce is a plus
+Exceptional communication and collaboration skills
+Strong track record of driving product growth and exceeding sales targets
+Demonstrate ability to work autonomously and proactively with a strong work ethic
+Experience or familiarity using Pipedrive, LinkedIn Sales, Apollo, and Slack
+Benefits of working with us
+£100,000 - £150,000 OTE
+Competitive base salary
+Uncapped incentive plan 
+Fully remote work - work from anywhere in the world
+Flexible working hours with a high degree of autonomy 
+6% matching pension contribution scheme (UK) or equivalent in other countries
+25 days holiday plus 8 days bank holidays (UK) or equivalent in other countries
+An opportunity to leverage bleeding edge technology and industry-leading development practices
+Close collaboration with leading projects in the space
+Be part of a growing Web3 community and movement where you get to meet like minded people
+Be part of a startup that’s growing fast, packed with career opportunities in a new Web3 world and be surrounded by exceptionally talented colleagues from over all over the world
+Some of our guiding principles
+Dream Big: We have the ambition to become one of the core building blocks upon which the decentralized web will be built.
+Self-Mastery: Mindful conduct and always on learning are critical components of personal and collective growth.
+Collaboration: Expertise is key, but sharing knowledge and building together with joy is the foundation for truly remarkable work.
+Stay lean: Our ethos is to create and share value equitably, with minimal value extraction and that is reflected in everything we do.
+Link: https://cryptojobslist.com/jobs/business-development-partnerships-manager-boson-protocol-remote
+--------------------------
+Title: Senior Rust Developer (Remote)
+Description: Job Description
+Responsibilities
+As a RUST Developer you will be an internal part of our protocol team and contribute to our two blockchains (Litentry and TEE Sidechain). Your main responsibility will be to support the research and implementation within our parachain’s workstream.
+Implement the pallets based on Substrate and inside Intel SGX
+Contribute to the WASM runtime development
+Fix the bugs in our testnet and mainnet
+ Write the technical documentation
+Research the latest secure computing technologies
+Requirements
+Solid computer science background
+4+ year experience with RUST programming or very strong C++ experience required
+An interest in decentralized technology and Web 3
+Good knowledge of Ethereum or other blockchain technologies
+Familiarity with Substrate and Polkadot, and experience in Intel SGX
+You are a quick learner and problem solver
+Ability to communicate effectively in English
+Nice to Haves
+Experience with W3C DID / cryptography / zero knowledge proof
+Being an open-source contributor
+Having participated in hackathons
+Benefits
+A competitive salary & personal development package
+The unique opportunity to shape a fast-growing blockchain start-up
+The option to work from home or in one of our shared office spaces
+Flexible working hours
+A work laptop of your choice
+ Autonomy of work – we trust you and we want you to work in the way that’s most productive for you
+A super friendly and international team
+Where We Work
+We are a Remote First company. Most of our team members choose to work from their homes. However, we currently also offer employees to use our shared office spaces in Berlin, Hangzhou or Munich, if they live in one of these cities and prefer to work in an office setting. We are open to hiring people who would like to work from countries within the time zones UTC to UTC+10.
+Diversity
+We celebrate a truly diverse and inclusive company culture and are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, marital status, disability, or gender identity.
+Link: https://cryptojobslist.com/jobs/senior-rust-developer-remote-litentry-remote
+--------------------------
+Title: Developer Relationships / Ops Manager
+Description: Job Description
+We’re looking for a do-it-all contributor who’s looking to break into the crypto space and help in a variety of tasks related to helping us grow our developer ecosystem on the Core blockchain. We want more projects building on Core, and experiencing the benefits of the Satoshi Plus Consensus! You’ll do outreach to popular protocols, handle inbound questions from developer teams, and help teams onboard and deploy their projects on the Core blockchain. As an early contributor you’ll have plenty of opportunity to contribute in a variety of ways as the group grows, this is just the beginning!
+You will
+Based on the Core Strategy, identify the top protocols and teams and perform outreach to get them deployed on Core
+Handle all first response inbound inquiries from teams looking to build on Core
+Handle relationships with a number of Core’s partner projects and ensure they always have a direct line into Core DAO
+Aid the contributors in various operational projects
+Requirements
+Interest and excitement about Blockchain technology, Web3 & the crypto culture
+Hungry to learn from a group of global contributors helping with Core Blockchain
+Self motivated, and lack of fear to tackle new projects
+Excellent written communication skills and the ability to capture the DAO’s vibe, ideally facility with crypto-specific language and a solid meme game
+Be able to work flexible and stretched hours to interact with the crypto community as frequently as possible
+Fluency in English
+Superb attention to detail, strong organizational and prioritization skills
+Experience with social media scheduling, analytics, sentiment, and trend identifying tools
+Amazing interpersonal, presentation, and communication skills
+Link: https://cryptojobslist.com/jobs/developer-relationships-ops-manager-core-blockchain-remote
+--------------------------
+Title: Operations: Admin & Finance
+Description: Job Description
+0xPARC is seeking a full-time person to join our operations team and support the backend finance and HR administration for the organization.
+This person will play a key role in managing reimbursements and grants for our community partners, expense and payroll processing for our internal team, and recruitment and onboarding for contractors and employees.
+Role Responsibilities
+Process 0xPARC Grants
+Liaising with grantees to obtain correct documentation, upload to Bill.com, and cue up approvals and payments.
+Providing support and direction to grantees if/when they encounter issues with the grants process.
+Reimbursements
+Guide community partners through our reimbursement flow for approved event/program travel and accommodations.
+Gather appropriate documentation for the above and prepare expense reports for approval.
+Support employees/internal team-members with reimbursements for purchases made on personal cards.
+HR
+Process payroll for employees and contractors.
+Contract, payroll, and accounts onboarding for employees/contractors.
+Recruitment admin and support: contributing to job description creation, posting positions, managing applicants, phone screens, setting up interviews, etc.
+Other possible responsibilities
+Skills Required
+High attention to detail. Strong ability to focus and efficiently work through task-lists.
+Comfortable with repetitive tasks with an eye for identifying areas that can be improved / made into a playbooks / automated.
+Able to prioritize multiple tasks, projects, and deadlines and adapt when leadership or operations team’s priorities change.
+Excellent communication skills, both written and verbal. Experience with a-sycn communication on a distributed team is highly valued.
+Proactive, growth mindset, and comfortable solving problems independently (default is to google or review external/internal documentation to solve a problem first).
+A “no-job-too-small” attitude.
+Experience with HR/Admin, finance, and accounting software.
+Bonus:
+Specific experience with following (or similar) tools/software an asset: Google Workspace, Notion, Airtable, Discord, Quickbooks, Gusto, Bill.com, Brex, Wise, Mercury.
+Complimentary Past Experience
+We aren’t big on titles, which is why you’ll notice this role doesn’t really have one. Analogous roles in other orgs would be something like HR and Finance Admin/Coordinator/Manager. and Ops Coordinator and Ops Manager, depending on the experience and capabilities of the person we hire. Complimentary past roles/experience for this role could include, but are not limited to: executive assistant, event coordinator/manager/producer, operations coordinator/manager, project manager, etc.
+Why might you be excited about this role?
+We’re highly mission-driven and values-aligned: at our core, we believe that applied crypto technology will have massive impacts on the world, and we're focused on creating a culture of thoughtfulness and responsibility around the development of this technology. We steer clear of the over-hyped and over-financialized aspects of the crypto space, and take the long-term view on how this technology might be used to enable fairer, redistributive, and pro-social structures.
+Additionally, 0xPARC’s role as a “community steward” enables us to occupy a unique position at the center of a growing network of teams. 0xPARC collaborates closely with a large and ever-expanding set of partner organizations—Ethereum Foundation, Optimism, Scroll, Polygon, ZCash, Veridise, Trail of Bits, Stanford CBR, Gitcoin, and many more. Joining 0xPARC is one of the fastest ways to familiarize yourself with the landscape of “deep tech” in crypto, and to build relationships with teams at the forefront of crypto innovation.
+Potential career-paths within 0xPARC for the person who fills this role could be, but are not limited to:
+Executive Assistant-type role for one or multiple of 0xPARC’s leaders
+Operations leader
+Why might you not be excited about this role?
+You may not be a good fit for this role if:
+You don’t want to herd cats or perform nitty-gritty operational and administrative work. This role requires you to get your hands dirty: building forms, editing copy, running events, managing mailing lists and email campaigns, etc.
+You don’t want to travel. This person will be expected to travel nationally and internationally with our core team members, sometimes on short notice.
+You are looking for predictability and stability. We expect the role, our organization, and the overall applied crypto technology landscape to grow and change rapidly over the next year. Team-members who are dedicated to our mission, and apply their best efforts, will have plenty of growth opportunities… we just don’t know what they look like yet.
+Link: https://cryptojobslist.com/jobs/operations-admin-finance-0xparc-foundation-remote
+--------------------------
+Title: Full Stack Developer
+Description: Job Description
+We are seeking an experienced Full Stack Web3 Developer to join our team. You will work closely with our product managers, designers, and other developers to create cutting-edge decentralized applications (dApps) that leverage blockchain technology.
+Responsibilities:
+Develop and deploy multiple decentralized applications
+Collaborate with cross-functional teams to design and implement new features
+Write high-quality, scalable, and maintainable code on the Polygon network
+Conduct thorough testing and debugging to ensure a seamless user experience
+Monitor and optimize the performance of the applications
+Requirements:
+Strong experience in building decentralized applications on the web3 stack
+Expertise in Solidity, JavaScript, React, and Node.js
+Familiarity with Ethereum and other blockchain technologies
+Experience with decentralized finance (DeFi) protocols and smart contracts
+Strong problem-solving skills and attention to detail
+Ability to work independently and as part of a team
+Excellent communication skillsThe devloper will have to be doxxed for safety and security reasons.
+If you have a passion for blockchain technology and are looking to work on exciting projects that push the boundaries of what is possible with web3, we encourage you to apply.
+Link: https://cryptojobslist.com/jobs/full-stack-developer-nft-project-remote
+--------------------------
+Title: Blockchain Developer
+Description: Job Description
+Requirements:
+3 + years of programming experience in any of the following: Solana, Web3.js, Ethereum+ ethers.js, DEFI, NFT
+5+ years of experience using any of the following: Python, Rust, Node.js, Solidity
+Experience with system architecture is a strong advantage
+Knowledge of cryptography and blockchain protocol
+Knowledge of blockchain management and data protection
+Experience in Bitcoin Core code bases and blockchain with a focus on privacy-oriented solutions
+Good command of English, both written and spoken, as you’ll be communicating with clients directly
+Strong organizational skills — ability to work full-time remotely with no supervision
+Responsibility — we want to trust you
+Soft skills — we value clear and effective communication, at the same time don't force you becoming a public speaker
+Ready to take your career to the next level? Apply now and join the Lemon.io family!
+Recruitment process:
+VideoAsk (about 10 minutes)
+Completing your me.lemon profile
+30 minutes Screening call with our Recruiters
+Technical Interview with our Developers
+Feedback
+Magic Box (we are looking for best project for you)
+P.S. We work with developers from LATAM, Canada, UK, Europe BUT we have some exceptions.
+At the moment, we don’t have a legal basis to accept applicants from Monaco, Netherlands, Belgium, Sweden, Belarus, Russia, Serbia, Switherland, Denmark, Finland, Norway, Ireland, Luxemburg, Iceland, Liechtenshtain, San Marino, Belize, Cuba, Jamaica, Nicaragua, Saint Lucia, so we don’t work with applicants from these countries.
+Link: https://cryptojobslist.com/jobs/blockchain-developer-lemon-io-europe-latam-uk-canada-uk
+--------------------------
+Title: Survey of smart contract developers
+Description: Job Description
+We at Bunzz are looking for smart contract developers to get user feedback.
+Only those who can fulfill the following requirements may apply.
+Must have at least 2 years of work experience as a software developer in the Web3 area.
+Have been involved in at least 3 DApp development projects
+Answers will take approximately 15 minutes. The fee is $50.00.
+Link: https://cryptojobslist.com/jobs/survey-of-smart-contract-developers-bunzz-remote
+--------------------------
+Title: Associate Director - Derivatives Business Development
+Description: Job Description
+The Associate Director - Derivatives Business Development is a financial professional who is responsible for promoting and selling Hashrate derivatives products to clients, such as hedge funds, asset managers, and other financial institutions. Other responsibilities will include onboarding and managing the operational needs associated with trading activity.   This role will report to the Head of Derivatives and their primary role will be to assist the team in sourcing new buyside market participants. This is a remote role with some travel required.   The specific responsibilities of this position will include:  
+Enhancing Luxor’s derivatives revenue stream by expanding our customer pipeline, generating new derivative trading opportunities, and developing the Hashrate derivative knowledge base across the traditional finance market participants (hedge funds, private equity, family offices, banks, and traditional market makers).
+Supporting the trading activities of the derivatives desk, including real-time pricing information, trade execution, and settlement.
+Building and maintaining relationships with clients to understand their trading and hedging objectives and identify opportunities to sell derivatives products that meet their needs.
+Staying informed about the latest market conditions and trends, emerging products and services, and regulatory changes in the derivatives market.
+Promoting the benefits of derivatives products to clients and providing education and training to help clients understand how to use these products effectively.
+Gathering market intelligence and providing feedback to the trading desk and product development teams.
+Maintain a thorough understanding of the OTC and listed derivatives marketplaces to help build Luxor’s strategic positioning in the digital asset space.
+Communicating with clients to answer questions and resolve any issues related to their trades.
+  The ideal candidate for the Associate Director - Derivatives Business Development role should have a strong background in finance, economics, or business administration as well as a deep understanding of derivatives products and markets. Experience in digital assets derivatives is strongly preferred. Candidates should be able to work well in a fast-paced, high-pressure environment and be able to quickly analyze complex financial information. Strong communication and interpersonal skills are also important, as this position will need to work closely with traders, bitcoin miners, and every department at Luxor.   Requirements  
+4+ years of work experience in financial services, derivatives sales, or OTC markets, preferably in a business development role.
+Strong interest and knowledge in the bitcoin and crypto mining industry.
+Ability to travel up to 25% of the time.
+Excellent communication, interpersonal, and presentation skills.
+Understand sales cycle, able to adjust sales strategies based on sales stages and customer archetypes.
+Self-driven, entrepreneurial, and customer oriented.
+Proficient in Microsoft Office and Google Suite, experience with CRM such as Hubspot.
+Bachelor’s degree in economics, finance business administration, or sales and marketing.
+  Equality   At Luxor we believe that meaningful contributions can be made by anyone. Each of us has a responsibility to drive Equality in our communities and workplaces. We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more. Luxor is an Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. Luxor welcomes all. Luxor does not accept unsolicited headhunters and agency resumes. Luxor will not pay any third-party agency or company that does not have a signed agreement with Luxor.
+Link: https://cryptojobslist.com/jobs/associate-director-derivatives-business-development-luxor-technologies-united-states
+--------------------------
+Title: Product Designer / Manager
+Description: Job Description
+Responsibilities:
+Working closely with the business teams to collect requirements and create specification, which includes functional and non-functional requirements, user stories and mockups, for new products, features or enhancement of existing products
+Working closely with the product and engineering team to make sure the product is implemented
+Conducting research on user behaviours and on other similar products in the space to come up with product enhancement
+Candidates with more experience will be considered for the role of Product Manager
+Requirements
+2-5 years of end-to-end product and UX/UI design experience
+Great written and verbal communication skills
+Exceptional work ethnic being able to work independently remotely as well as with a globally distributed team
+Experience and familiar with blockchain, digital asset, DeFi, NFT and Web3 preferred
+How to apply: Send your credentials (e.g. resume, portfolio, reference, social media handles, etc)
+Link: https://cryptojobslist.com/jobs/product-designer-manager-pine-protocol-remote
+--------------------------
+Title: Assure Network Growth Manager
+Description: Job Description
+Qualifications
+2+ years of experience in cryptocurrency, blockchain, or NFT markets 
+5+ years of experience in sales roles
+Existing network of resources (contacts, connections, platforms, suppliers) who serve crypto, NFT & Web3 project leaders
+Experience developing and nurturing a 3rd party supplier network
+Experience working with remote teams in independent self-driven role
+Strong verbal and written persuasive communications skills, sales closer
+Responsibilities
+Drive revenue growth specifically attributed to the Assure Network channel and services offering
+Work with verified client projects to understand unfilled needs; sell clients Assure DeFi/Assure Network services & connect clients w/ Assure Network resources
+Develop, expand & refine the Assure Network in-house service/product offering to meet the needs & demands of Assure DeFi client projects
+Manage existing supplier network relationships to clearly structure communications, world-class fulfillment, processes, quality of services, scopes of work, pricing, buy/resell contracts, referral/commission agreements, and payments/collections
+Grow Assure Network depth of capabilities by adding multiple high quality suppliers in areas that are regularly needed from our client projects
+Develop internal standard processes to effectively convert opportunities to sales
+Develop and implement advertising & marketing creatives (i.e. posts and news) to increase the interest and engagement of the Assure Network. Grow brand awareness for Assure Network via social media & key strategic partnerships. Work with the in-house Marketing Team to deliver these initiatives.
+Identify trends and insights; optimize spend & performance based on insights
+Identify and support opportunities to grow the Assure DeFi revenue via new or existing partners, projects, or communities.
+Promote membership growth of Assure Network social channels, as well as active members & community engagement
+Current Tech Stack
+Google Workspace
+Asana
+Notion
+Twitter, Telegram, Discord
+Adobe Creative Suite, Canva
+Fireflies.ai
+Part Time - Full Time position
+$350 - $700/ week + generous commission structure
+Eastern Standard Time working hours
+Link: https://cryptojobslist.com/jobs/assure-network-growth-manager-assure-defi-remote
+--------------------------
+Title: L1 Researcher and Auditor (C++)
+Description: Job Description
+Job Summary:
+We are seeking a skilled C++ Security Auditor with expertise in blockchain layer 1 development to join our team. The ideal candidate will have a strong background in C++ programming language and blockchain protocol development, with extensive experience in software development and security auditing. The L1 Security Auditor will be responsible for conducting security audits of blockchain layer 1 codebases and identifying potential vulnerabilities.
+Responsibilities:
+Conduct security audits of blockchain protocols codebases to identify vulnerabilities and potential security risks.
+Communicate with developers and key stakeholders when identifying and handling security issues.
+Implement internal tools for simplifying the audit process.
+Keep up to date with the latest security vulnerabilities, exploits, and attack techniques related to blockchain protocols and adapt audit procedures accordingly.
+Write reports detailing identified vulnerabilities and recommend remediation steps to development teams.
+Requirements:
+At least 2 years of C++ development.
+At least 4 years in software development.
+Strong understanding of C++ programming language and software development principles.
+Knowledge of blockchain technology and layer 1 protocols, including consensus algorithms, smart contracts, and virtual machines.
+Experience with security tools and techniques such as fuzz testing and static/dynamic analysis for blockchain networks.
+Strong written and verbal communication skills, with the ability to write clear and concise reports and communicate complex technical concepts to non-technical stakeholders.
+Knowledge of blockchain frameworks such as Substrate, Cosmos, etc is a plus
+Additional possibilities:
+Perform research regarding blockchain technologies.
+Participate in community meet-ups and conferences
+For comfortable and effective cooperation we offer:- Opportunity to influence and feel your impact inside the company- Work in a progressive and cutting-edge environment - Great opportunities for personal and career growth- Option to get income in USDT- Paid vacation and sick leaves- Minimum bureaucracy, maximum independence- Budget for conferences, seminars, and training that will help you grow as a professional- Flexible working hours- Remote work.
+If you are seeking a fulfilling job in a cutting-edge industry with the opportunity to impact business and master your leadership skills, don’t hesitate to send your CV. Please, include the salary expectation with your letter.
+Link: https://cryptojobslist.com/jobs/l1-researcher-and-auditor-c-hacken-remote
+--------------------------
+Title: Product Owner
+Description: Job Description
+Do you want to be at the forefront of cutting-edge technology? Are you looking to work for a company that will push the dapp market to the next level? Bring your strong technical skills and passion for blockchain to a growing startup, disrupting the industry.
+Since DappRadar launched in 2018, it has become the largest data-driven dapp distribution platform on the market. Even during the bear market, close to 2 million users per month use DappRadar to discover decentralized applications, or simply dapps.
+To help us continue to grow, we're searching for an experienced mid-level Agile Product Owner to deliver new, innovative products and maintain existing ones with our multidisciplinary development team.
+You are just as comfortable speaking with engineers as you are in communicating with end-users or participating in sales calls. DappRadar is looking for an experienced product owner with strong technical, Web3, product marketing, and design knowledge, along with communication skills to define and direct development across our portfolio of products.
+Objectives of this Role:
+In this role, you will collaborate closely with other members of the Product Team, Engineering, Product Design, Strategic Partnerships, Sales, Customer Support, and other internal and external stakeholders.
+Work with the Head of Product, development teams, and VP of Engineering to manage and deliver product requirements.
+Assist in building and owning the product backlog.
+Interpret technical and business objectives and challenges and articulate solutions.
+Analyze product data, proactively optimize, and drive performance.
+Responsibilities:
+Drive the execution and delivery of product requirements, supporting the POs in product delivery, planning, positioning, roadmap development, requirements development, and product launch.
+Collaborate closely with our Design Team to drive product requirements to product vision.
+Collaborate with our Sales team to help ensure our tools support new partnership integrations and are optimized for end-user experience.
+Understand the needs of our customer base, to devise a strategy to deliver value to our users.
+Work with the Engineering teams to identify and recommend products, technologies, and vendors to support the existing product stack and ongoing product development.
+Contribute, support, and implement best practices.
+Collaborate closely with UX, engineering, production, marketing, and sales teams on the development, QA, and release of products and balance of resources to ensure success for the entire organization.
+Develop product positioning and messaging that differentiates DappRadar and its features across primary market segments.
+Skills and Qualifications:
+3+ years of experience in a tech product role.
+Proven experience overseeing all elements of the product development lifecycle.
+Experience in Product Design and knowledge of Product Marketing practices.
+Highly effective in collaborating and coordinating with other teams and departments.
+Hands-on blockchain knowledge and experience.
+Strong writing and editing skills combined with exceptional presentation and public speaking skills.
+You'll be in a rewarding company:
+Competitive salary!
+Receive compelling stock options and RADAR token offerings.
+Work with cutting-edge blockchain technology and uncharted territory.
+Become visible in the industry by working with DappRadar, joining our Twitter Spaces and more.
+An international team of highly skilled and motivated colleagues to help you succeed and push boundaries.
+Flexible working hours concept, remote work opportunity, training sessions, and teamwork based on company culture.
+"Family first" policy.
+Link: https://cryptojobslist.com/jobs/product-owner-dappradar-remote
+--------------------------
+Title: Senior Software Engineer (Web3)
+Description: Job Description
+Role
+As a Senior Software Engineer, you will be in charge of maintaining and improving the backend infrastructure powering the entire Sismo protocol. It includes the Sismo hub, our different APIs and core packages, as well as the infrastructure behind it all. You will work closely with our smart contracts, ZK circuits, and product front-ends—as well as entirely new products.
+Requirements
+5+ years of experience building scalable applications
+2+ years working on open-source products
+Strong communication skills
+Conviction for crypto and privacy
+Nice to have
+Experience writing smart contracts, ZK circuits, subgraphs, and other crypto tools
+Experience working as a DevOps
+Fluent in English (French is a bonus)
+Tech stack Sismo
+Back: Typescript, Node.js
+DB: PostgreSQL and DynamoDB
+APIs: REST, GraphQL, theGraph
+Infra: AWS infrastructure, Docker, Github Action
+Smart contracts & ZK: Solidity, Foundry, Hardhat, Ethers.js, Circom
+Front: React/ Next
+Benefits
+Strong incentives (market salary + tokens package)
+Ability to take large ownership
+Remote-friendly
+Participation in some of crypto’s biggest events and conferences
+Become entrenched in the ZK, web3 social and identity communities
+Link: https://cryptojobslist.com/jobs/senior-software-engineer-web3-sismo-paris
+--------------------------
+Title: Web3 Full Stack Developer
+Description: Job Description
+We are looking for an exceptional developer with proficiency in MVC applications development to build backend APIs, CMS, and services that power UNXD interacting with smart contracts, as well as front-end web3 interfaces that interact with backend code. This role reports to the Head of Technology.
+Key Responsibilities
+Develop backend APIs, CMS, and services that power UNXD interacting with smart contracts for all the projects and activities.
+Deploy alterations and updates to GitHub and Azure DevOps service.
+Build front-end web3 interfaces that interact with your backend code.
+Conceptualize ideas and scope the development of each project and activity and rollout implementation. Managing the project plan and timeline of each workstream is essential.
+Review and manage the work of other partnering developers to ensure applications and features are accurately implemented.
+Track the status of each project/activity to provide a weekly update to the UNXD team and management.
+Work closely with the UNXD Studio team to execute projects directly and/or its roster of brands.
+Audit and troubleshoot any problems pre-, during, and post-launch of projects/activities.
+Basic Qualifications
+6+ years of development experience with a proven track record of designing, scoping and developing applications.
+Bachelor’s degree in Computer Science, Software Engineering, or equivalent work experience.
+At least 5 years of experience in Application Development using Angular and front-end technologies such as HTML, CSS, and typescript.
+At least 3 years of experience in development using Node.js, Azure DevOps and app services, and MongoDB.
+1+ years of working with blockchain, smart contracts, solidity, and web3 apps.
+Expert in developing Single Page Applications (SPA) using angular and node.
+Expert-level knowledge of MongoDB and SQL with the ability to write queries & stored procedures.
+Solid experience in designing and developing complex prototypes and proofs of concepts (POCs).
+Strong written and oral communication skills.
+Candidate’s Profile
+You have a strong desire to work in a startup/entrepreneurial environment and play an integral role in the leading web 3 luxury platform.
+You are exceptional at project management and can juggle several project milestones under pressure.
+You possess strong leadership skills with a team player mindset and inspire people by leading by example.
+You are creative and enjoy working with ambiguity and complexity.
+You are a strategic thinker that’s able to ideate, conceptualize, and implement.
+You have a positive approach to managing workload and deadlines in a fast-paced environment.
+You are open-minded and willing to learn, experiment, and progress.
+You are passionate about technology, luxury, culture, and blockchain/web3.
+Link: https://cryptojobslist.com/jobs/web-3-full-stack-developer-unxd-dubai
+--------------------------Title: Marketing Lead
+Description: Job Description
+About the Role
+We are looking for a Marketing Lead to join the growth team. This is a role for a DeFi native with extensive experience and track-record contributing to DeFi communities. You are an entrepreneur who can plan, execute and optimize an end-to-end marketing strategy utilizing internal and external resources.
+Responsibilities
+Use Analytics effectively to design marketing campaigns to drive our North Star metric upward.
+Build, manage, and optimize a community grants program aiming to increase our user base across communities and countries.
+Own all communications and social channels.
+Earn organic media coverage (Podcasts; Spaces; News coverages; Youtube; etc.).
+Requirements
+Extensive marketing experience in DeFi.
+Proven track record showcasing the creation and successful implementation of marketing campaigns.
+Deep knowledge of DeF communities and projects.
+Fluency with Analytics tools.
+Entrepreneur at heart with the ability to work autonomously.
+Excellent written and verbal English skills.
+Compensation
+- Salary: $65,000 - $100,000 / Year
+- Generous token allocation
+- Remote & flexible working hours
+Link: https://cryptojobslist.com/jobs/marketing-lead-silo-finance-remote
+--------------------------
