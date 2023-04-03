@@ -1,6 +1,5 @@
 Title: Senior Crypto Threat Analyst
-Description: https://web3.career/r/=kDOwgDN__14nmKw
-Link: Company description:At Elliptic, we believe cryptocurrency will play a huge role in the future of value transfer, and we care deeply about helping to build this future. As digital assets and cryptocurrency become more widely adopted, our products are essential to ensure cryptocurrency is safe and accessible to all.Elliptic’s blockchain analytics solutions help prevent financial crime and allow cryptocurrencies to be used for good. The company is the global leader in detecting, preventing, and pursuing criminal activity in cryptocurrencies. Our products are used by some of the world’s most highly regulated banks and financial institutions, leading cryptocurrency exchanges, and government agencies to screen over $1 billion of transactions every single week.The company has offices in London (Global HQ), New York City, and Singapore.. We are backed by leading institutions including Evolution Equity Partners, SoftBank, SBI Group, Albion VC, Octopus Ventures, SignalFire, Wells Fargo, JP Morgan, Paladin Capital, Santander InnoVentures, and Digital Currency Group.To achieve our mission, we depend on our incredible team of Elliptites. Our values are reflected in everything we do and in every decision we make, both internally and outwardly to our customers. We actively encourage Elliptities to challenge the status quo and allow the freedom to innovate and learn everyday. We encourage new ideas and learning, whether that’s through collaboration, our curiosity sessions, or utilising your professional development budget - the team’s personal growth is key to our success.About The RoleAn exciting opportunity to apply your research skills to collect intelligence and develop expertise at the convergence of cybercrime and cryptoassets. You will investigate and monitor real-world cryptoasset use, both illicit and legitimate - from decentralized finance to darknet markets, and mining to malware.Your work will directly contribute to Elliptic’s industry-leading intelligence dataset, which powers our products and enables financial institutions to screen wallets and transactions for risk and help to prevent financial crime.Your insights will also form the basis of client-facing research as well as marketing content. Previous Elliptic research has been featured in the Financial Times, Wall Street Journal, Reuters, Bloomberg and BBC News.You will share and present this research and insights directly with customers, regulators and internally.Impact of the Role:As a Senior Crypto Threat Analyst at Elliptic, your in-depth research on cryptoasset-related criminal activity will contribute to our industry-leading dataset, helping financial/ government institutions screen transactions and prevent financial crime. By collaborating with the data team, you'll enhance the dataset's accuracy and comprehensiveness. Your findings will also support client-facing research and marketing content, and directly with customers and regulators, solidifying Elliptic's position as a thought leader and ensuring a more secure future for the cryptocurrency ecosystem.What you will do:Threat Intelligence
+Description: Company description:At Elliptic, we believe cryptocurrency will play a huge role in the future of value transfer, and we care deeply about helping to build this future. As digital assets and cryptocurrency become more widely adopted, our products are essential to ensure cryptocurrency is safe and accessible to all.Elliptic’s blockchain analytics solutions help prevent financial crime and allow cryptocurrencies to be used for good. The company is the global leader in detecting, preventing, and pursuing criminal activity in cryptocurrencies. Our products are used by some of the world’s most highly regulated banks and financial institutions, leading cryptocurrency exchanges, and government agencies to screen over $1 billion of transactions every single week.The company has offices in London (Global HQ), New York City, and Singapore.. We are backed by leading institutions including Evolution Equity Partners, SoftBank, SBI Group, Albion VC, Octopus Ventures, SignalFire, Wells Fargo, JP Morgan, Paladin Capital, Santander InnoVentures, and Digital Currency Group.To achieve our mission, we depend on our incredible team of Elliptites. Our values are reflected in everything we do and in every decision we make, both internally and outwardly to our customers. We actively encourage Elliptities to challenge the status quo and allow the freedom to innovate and learn everyday. We encourage new ideas and learning, whether that’s through collaboration, our curiosity sessions, or utilising your professional development budget - the team’s personal growth is key to our success.About The RoleAn exciting opportunity to apply your research skills to collect intelligence and develop expertise at the convergence of cybercrime and cryptoassets. You will investigate and monitor real-world cryptoasset use, both illicit and legitimate - from decentralized finance to darknet markets, and mining to malware.Your work will directly contribute to Elliptic’s industry-leading intelligence dataset, which powers our products and enables financial institutions to screen wallets and transactions for risk and help to prevent financial crime.Your insights will also form the basis of client-facing research as well as marketing content. Previous Elliptic research has been featured in the Financial Times, Wall Street Journal, Reuters, Bloomberg and BBC News.You will share and present this research and insights directly with customers, regulators and internally.Impact of the Role:As a Senior Crypto Threat Analyst at Elliptic, your in-depth research on cryptoasset-related criminal activity will contribute to our industry-leading dataset, helping financial/ government institutions screen transactions and prevent financial crime. By collaborating with the data team, you'll enhance the dataset's accuracy and comprehensiveness. Your findings will also support client-facing research and marketing content, and directly with customers and regulators, solidifying Elliptic's position as a thought leader and ensuring a more secure future for the cryptocurrency ecosystem.What you will do:Threat Intelligence
 Perform open source and darknet research to develop a deep understanding of emerging criminal use-cases for cryptoassets, and the cybercrime ecosystem more broadly, including ransomware, fraud, darknet markets and mixers.
 Ensure that Elliptic maintains coverage of the full spectrum of criminal actors engaged in illicit use of cryptoassets, and their relative importance.
 Collaborate with the data team to ensure that new actors are incorporated into our dataset.
@@ -54,10 +53,10 @@ Full access to Spill Mental Health Support
 
 We know Diversity and Inclusion is much deeper than just hiring, but it’s important for us to mention it here. We welcome and embrace individuals of all backgrounds and identities at Elliptic, and this is an ongoing priority for us. We know incredible people don’t all think in the same way. We want to be challenged every day. We believe our diverse team of individuals underpins this by bringing creative thinking and innovation to Elliptic every day. We are committed to creating a diverse, inclusive and equitable workplace, so we welcome applications from everyone, even if you may not think you fit all of the requirements of our roles. We foster an environment of psychological safety, where everyone feels comfortable to bring their whole self to work.
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=kDOwgDN__14nmKw
 --------------------------
 Title: Founding Engineer
-Description: https://web3.career/r/=gDOwgDN__14nmKw
-Link: Founding EngineerRemote/USAbout 0xPass:0xPass, our first product, is a wallet connection tool with inbuilt support for authentication, identity management, and account abstraction. Simply put, we help dapps build frictionless auth and login flows.Our mission as a company is to build products that bring frictionless UX to web3, onboarding the next billion consumers.We’ve wrapped up our pre-seed round, have a healthy runway and are backed by investors like AllianceDAO, Balaji Srinivasan, Alchemy Ventures, Cory Levy, and Soma Capital.About the roleWe’re seeking a highly skilled Founding Full-Stack Engineer with prior Web3 experience who is capable of wearing multiple hats. As a Founding Engineer, you will play a critical role in the product development process by working collaboratively with our team, engaging with users, and contributing to our stack - both front-end and back-end components, as well as smart contracts.Responsibilities
+Description: Founding EngineerRemote/USAbout 0xPass:0xPass, our first product, is a wallet connection tool with inbuilt support for authentication, identity management, and account abstraction. Simply put, we help dapps build frictionless auth and login flows.Our mission as a company is to build products that bring frictionless UX to web3, onboarding the next billion consumers.We’ve wrapped up our pre-seed round, have a healthy runway and are backed by investors like AllianceDAO, Balaji Srinivasan, Alchemy Ventures, Cory Levy, and Soma Capital.About the roleWe’re seeking a highly skilled Founding Full-Stack Engineer with prior Web3 experience who is capable of wearing multiple hats. As a Founding Engineer, you will play a critical role in the product development process by working collaboratively with our team, engaging with users, and contributing to our stack - both front-end and back-end components, as well as smart contracts.Responsibilities
 Collaborate with the team in product development and provide innovative ideas for enhancing our products and services.
 Develop and maintain both front-end and back-end components of our platform.
 Write, test, and deploy smart contracts.
@@ -72,20 +71,20 @@ Understanding of blockchain technology and decentralized applications.
 Excellent communication skills, ability to collaborate effectively with team members and stakeholders.
 Our ValuesGoal driven and process focusedAt our company, we value being goal-driven and process-focused. This means that we are constantly striving towards achieving specific objectives and outcomes, and we place a strong emphasis on establishing and following well-defined systems to ensure that we achieve those goals efficiently and effectively.Bring a curious mindset to workWe encourage our teammates to ask questions, explore new ideas, and challenge assumptions in order to discover new opportunities for improvement and growth. In practical terms, bringing a curious mindset to work means taking the initiative to learn new skills and technologies, seeking out feedback and constructive criticism, and being willing to experiment and take risks in order to find new solutions to complex problems. It means approaching challenges with a sense of wonder and excitement, and always being open to new ideas and perspectives.Have funWe believe that work should be an enjoyable and fulfilling experience, and that having fun at work can help to foster a positive and productive work environment. We strive to create an environment where our employees can be themselves, express their creativity, and enjoy their work.How To ApplySend us an email at founders at omlabs.xyz with a link to your resume or LinkedIn profile and your GitHub account or projects you’ve worked on.Looking forward to hearing from you :)
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=gDOwgDN__14nmKw
 --------------------------
 Title: Blockchain Analyst
-Description: https://web3.career/r/=cDOwgDN__14nmKw
-Link: Work with the future of blockchain IP as we take our vision to market. Eager minds of tomorrow are welcome to apply. This role will be heavily research based with the opportunity for advancement.ResponsibilitiesBe an expert in the worlds leading issued omnibus blockchain patents. You will be responsible for analysis and reports of current issued and pending blockchain IP. The role will be dynamic in that as you provide value you might be asked to assist on important meetings for data overview and insights on technical aspects of a given project. You will have the ability to source law firms to partner with the Company.QualificationsCurrently enrolled in relevant College/University program will be taken into consideration. Interview aptitude tests will be conducted in a creative and fun way.
+Description: Work with the future of blockchain IP as we take our vision to market. Eager minds of tomorrow are welcome to apply. This role will be heavily research based with the opportunity for advancement.ResponsibilitiesBe an expert in the worlds leading issued omnibus blockchain patents. You will be responsible for analysis and reports of current issued and pending blockchain IP. The role will be dynamic in that as you provide value you might be asked to assist on important meetings for data overview and insights on technical aspects of a given project. You will have the ability to source law firms to partner with the Company.QualificationsCurrently enrolled in relevant College/University program will be taken into consideration. Interview aptitude tests will be conducted in a creative and fun way.
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=cDOwgDN__14nmKw
 --------------------------
 Title: Head of Marketing
-Description: https://web3.career/r/=UDOwgDN__14nmKw
-Link: Ideal candidate traits✍️ A writer. You love writing and enjoy the challenge of distilling technical concepts into clear and engaging written materials.📕 A storyteller. You have deep empathy for users and are able to adapt how you communicate to best reach and engage your audience—from developer to CFO—and differentiate the company🤩 Adept at synthesis. You can partner with domain experts across the company to gather insights about our capabilities, the industry, and competitive trends, and distill them into compelling content that demonstrates the company's thought leadership and innovation.📆 You are able to manage highly interdependent projects and keep various work streams on track by building processes and content calendars.👩🎓 A student of technology. You are keen to learn about how things work and are able to explain technical concepts in ways that are accessible to all readers🪙 Interest in web3. You want to learn more about web3 and blockchain tech and are eager to go deep into this space.Powered by JazzHR1KEAKYZb7F
+Description: Ideal candidate traits✍️ A writer. You love writing and enjoy the challenge of distilling technical concepts into clear and engaging written materials.📕 A storyteller. You have deep empathy for users and are able to adapt how you communicate to best reach and engage your audience—from developer to CFO—and differentiate the company🤩 Adept at synthesis. You can partner with domain experts across the company to gather insights about our capabilities, the industry, and competitive trends, and distill them into compelling content that demonstrates the company's thought leadership and innovation.📆 You are able to manage highly interdependent projects and keep various work streams on track by building processes and content calendars.👩🎓 A student of technology. You are keen to learn about how things work and are able to explain technical concepts in ways that are accessible to all readers🪙 Interest in web3. You want to learn more about web3 and blockchain tech and are eager to go deep into this space.Powered by JazzHR1KEAKYZb7F
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=UDOwgDN__14nmKw
 --------------------------
 Title: Web3 Business Developer
-Description: https://web3.career/r/=czMwUDN__14nmKw
-Link: Do you self-identify as a great problem solver (and not just a BDM/Web3 enthusiast)?
+Description: Do you self-identify as a great problem solver (and not just a BDM/Web3 enthusiast)?
 Have you been honing your innovation craft for years yet yearning for more complex challenges?
 Does the opportunity to play a key role in the (business) development of a software platform with massive impact (for millions or even billions of people) excite you?
 If you’ve answered with 3 resounding yeses, then we want to meet you! 
@@ -129,10 +128,10 @@ A bit more about our Multinational, High-Performance (and primarily remote) Team
 Join a highly talented multicultural team that is based all over the world. We have offices in San Francisco, New York, Warsaw, Amsterdam, Berlin, and several locations in Asia. As stated above, we make remote working possible by embracing our ethos, yet many teams also travel to meet in person every 1-2 months. We all want high degrees of autonomy and flexibility to make life and work fun, but transparency, accountability/ownership are the requisites.
 
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=czMwUDN__14nmKw
 --------------------------
 Title: Senior Solidity Engineer
-Description: https://web3.career/r/=UzNwgDN__14nmKw
-Link: Duties/ResponsibilitiesJob responsibilities include working with management and other team members to design solutions, implementing smart contract code and associated tests, working with auditors to review potential vulnerabilities, and writing documentation on these systems.Requirements:
+Description: Duties/ResponsibilitiesJob responsibilities include working with management and other team members to design solutions, implementing smart contract code and associated tests, working with auditors to review potential vulnerabilities, and writing documentation on these systems.Requirements:
 5+ years of professional software engineering experience
 2+ years of Solidity and Typescript development experience
 Deep understanding of software architecture and programming patterns
@@ -148,10 +147,10 @@ Resume
 Link to code portfolio
 
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=UzNwgDN__14nmKw
 --------------------------
 Title: Trading Operations Specialist (Americas) - Digital Assets
-Description: https://web3.career/r/=QzNwgDN__14nmKw
-Link: Keyrock is expanding!Keyrock was founded in 2017 and has quickly grown from 3 to over 100 people today. As an industry recognized liquidity provider and market maker, Keyrock is a leading European creator of algorithmic trading technologies in the digital asset space. With VC backing including Series B investment from Ripple, a constantly expanding global client base, and revenues growth 13x in 2021, Keyrock is one of Belgium’s fastest-growing fintech companies.We’re currently active on over 80 exchanges and count numerous marketplaces and asset issuers among our clients, including some of the best-known companies in the digital assets space.Keyrock's beating heart is its technical team filled with crypto and DeFi natives, software engineers, digital scientists and academics, who themselves are supported by university professors, industry-leading experts and a strong management team. Over the years Keyrock has become a company that is both idealistic and practical.We are looking for…our first dedicated Trade Operations Professional, dedicated to the Americas time zone and our clients there.Job Description
+Description: Keyrock is expanding!Keyrock was founded in 2017 and has quickly grown from 3 to over 100 people today. As an industry recognized liquidity provider and market maker, Keyrock is a leading European creator of algorithmic trading technologies in the digital asset space. With VC backing including Series B investment from Ripple, a constantly expanding global client base, and revenues growth 13x in 2021, Keyrock is one of Belgium’s fastest-growing fintech companies.We’re currently active on over 80 exchanges and count numerous marketplaces and asset issuers among our clients, including some of the best-known companies in the digital assets space.Keyrock's beating heart is its technical team filled with crypto and DeFi natives, software engineers, digital scientists and academics, who themselves are supported by university professors, industry-leading experts and a strong management team. Over the years Keyrock has become a company that is both idealistic and practical.We are looking for…our first dedicated Trade Operations Professional, dedicated to the Americas time zone and our clients there.Job Description
 Trade settlement and communicating with internal and external trading counterparties to ensure timely and accurate settlements
 Trade reconciliation from post trade to settlement to ensure correct and timely settlement. 
 Keeping track of the treasury, and liaising with the trading and finance teams on accounting for asset balances across operations. 
@@ -184,10 +183,10 @@ A ton of fun in a thriving and multicultural environment, with colleagues enjoyi
 
 Keyrock offers you both a career and a large range of benefits that we will gladly discuss in the course of the application process.As an employer we are committed to build an inclusive, diverse and non-discriminating work environment. We welcome employees of all backgrounds, ethnicities, genders, creed and sexual orientation. We hire, reward and promote entirely based on merit and performance.
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=QzNwgDN__14nmKw
 --------------------------
 Title: Blockchain Trading Infrastructure Engineer – US Remote - $200k
-Description: https://web3.career/r/=MTNwgDN__14nmKw
-Link: JavaScript/TypeScript/Node | Target Bonus | Large Data Pipelines | Leading Trading CompanyAda Meher’s client in the Crypto Trading space is looking to recruit an engineer into their central operations engineering team to working on systems supporting the various trading arms of the business. The client is a leading holdings company with global reach and a sustained history of success in crypto asset trading.The core of these central operations systems are written using Clojure but interface with JavaScript/Typescript microservice APIs in order to interact with blockchain and crypto asset libraries. As such, we can look at Engineers without Clojure experience, but with a strong understanding of on chain technology and an affinity for learning.To Be Considered
+Description: JavaScript/TypeScript/Node | Target Bonus | Large Data Pipelines | Leading Trading CompanyAda Meher’s client in the Crypto Trading space is looking to recruit an engineer into their central operations engineering team to working on systems supporting the various trading arms of the business. The client is a leading holdings company with global reach and a sustained history of success in crypto asset trading.The core of these central operations systems are written using Clojure but interface with JavaScript/Typescript microservice APIs in order to interact with blockchain and crypto asset libraries. As such, we can look at Engineers without Clojure experience, but with a strong understanding of on chain technology and an affinity for learning.To Be Considered
 Demonstrable experience in Development of distributed or “node-based” systems
 Ability to audit/code Solidity and/or smart contracts
 Preferably experience in either JavaScript/Typescript/Node.js or Clojure engineering
@@ -195,10 +194,10 @@ Testing experience with Hardhat, Truffle or similar
 
 On top of a fantastic base salary, there is the opportunity to earn a target bonus from 30-50% of basic salary depending on company and team performance. Additionally, this role is able to be worked on a fully remote basis, though given the distribution of the team currently, we’ll be prioritising engineers in the Central and Eastern time zones.We are anticipating a strong response to the Blockchain Trading Infrastructure Engineer role, so please get in contact today for more information or send a CV to matthew.coney@adameher.com for consideration.
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=MTNwgDN__14nmKw
 --------------------------
 Title: Senior Software Engineer - Solidity
-Description: https://web3.career/r/=ITNwgDN__14nmKw
-Link: Highlights
+Description: Highlights
 Salary Range: $120k – $240k with equity option
 
 Required Skill-Set: React, Typescript, Next.js, Node, HTML/CSS, Tailwind, Solidity
@@ -214,10 +213,10 @@ Experience developing with little to no supervision, biasing towards action to r
 Experience in Solidity is a plus
 An incredible benefits package including 100% company paid medical/dental/vision insurance, unlimited paid time off, and access to our future drop
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=ITNwgDN__14nmKw
 --------------------------
 Title: Founding Engineer
-Description: https://web3.career/r/=ETNwgDN__14nmKw
-Link: Wally is a wallet infrastructure company that is helping to onboard the next billion users onto crypto products. We are working on a unique approach to signing people up for crypto apps to ensure that people don’t have to store private keys, and they can log into crypto products in a familiar way, such as with a username and password, or methods like Sign in with Google and Sign in with Apple. We believe that the next wave of successful crypto apps will need to appeal to users who aren't familiar with tools like Metamask and aren't comfortable with private key custody. We have the first production version of the product deployed and have onboarded our initial set of pilot customers.We are looking for a founding engineer to take over the API and infra, continue to build out new features, recruit and lead new team members, and contribute in countless other ways to help build the business.About WallyWally makes it easy to integrate wallets into an application without needing blockchain and security expertise. We make it simple for companies to provide the ease-of-use that users are accustomed to from top consumer crypto apps like Dapper, Sorare, and Coinbase without the onerous technical and regulatory efforts that those companies had to go through.Wally has raised funding from a series of top-notch early stage funds and angel investors, led by Afore.vc, Engineering Capital (Ashmeet Sidana), and top angels including Justin Kan, Matt Knox (Reddit), Sriram Krishnan, Garrett Lord (Handshake), Hareesh Nagaraj (Audius), Shiva Rajaraman (Head of Product, OpenSea), Lydia Hylton (Bain Capital Crypto), Dan Porter (Overtime), and Meera Clark (Redpoint Ventures).We’re based in NYC and looking to hire in person. We believe that in-person collaboration is strategically important for a company at our stage — both for velocity and company culture. I'm willing to relocate to SF for the right candidate as well and found the company there.Experience
+Description: Wally is a wallet infrastructure company that is helping to onboard the next billion users onto crypto products. We are working on a unique approach to signing people up for crypto apps to ensure that people don’t have to store private keys, and they can log into crypto products in a familiar way, such as with a username and password, or methods like Sign in with Google and Sign in with Apple. We believe that the next wave of successful crypto apps will need to appeal to users who aren't familiar with tools like Metamask and aren't comfortable with private key custody. We have the first production version of the product deployed and have onboarded our initial set of pilot customers.We are looking for a founding engineer to take over the API and infra, continue to build out new features, recruit and lead new team members, and contribute in countless other ways to help build the business.About WallyWally makes it easy to integrate wallets into an application without needing blockchain and security expertise. We make it simple for companies to provide the ease-of-use that users are accustomed to from top consumer crypto apps like Dapper, Sorare, and Coinbase without the onerous technical and regulatory efforts that those companies had to go through.Wally has raised funding from a series of top-notch early stage funds and angel investors, led by Afore.vc, Engineering Capital (Ashmeet Sidana), and top angels including Justin Kan, Matt Knox (Reddit), Sriram Krishnan, Garrett Lord (Handshake), Hareesh Nagaraj (Audius), Shiva Rajaraman (Head of Product, OpenSea), Lydia Hylton (Bain Capital Crypto), Dan Porter (Overtime), and Meera Clark (Redpoint Ventures).We’re based in NYC and looking to hire in person. We believe that in-person collaboration is strategically important for a company at our stage — both for velocity and company culture. I'm willing to relocate to SF for the right candidate as well and found the company there.Experience
 4+ years of experience building and architecting backend APIs
 Experience working with relational databases, especially Postgres
 Experience working with Javascript/Typescript/Nest.js (Node)
@@ -235,10 +234,10 @@ Equity: 3%+
 
 About The TeamMayank Jain is a former engineer and product manager at Reddit where he worked on the Growth team and impacted nearly every facet of the business, including user growth, subreddit growth, revenue, and safety. Before that he was also the first employee and founding engineer at Viome, where he wrote the initial technical foundations of the consumer facing product, and helped define, manage, and execute the launch of the first version of the service including both digital and physical experiences. He knows exactly what it’s like to come into an early stage startup with a lot of the specifics undefined while building the foundations of a multi-hundred million dollar business.We have a strong team of contractors from Metamask, Roblox, and CapitalOne that have built out the initial version of the product and will continue on the team after you join.
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=ETNwgDN__14nmKw
 --------------------------
 Title: Research Analyst (Listing Team)
-Description: https://web3.career/r/=ATNwgDN__14nmKw
-Link: DescriptionThe Tie is the leading provider of information services for digital assets. Our core offering, The Tie Terminal, is the fastest and most comprehensive workstation for institutional digital asset investors. The Terminal brings together real-time news from thousands of primary sources, with sentiment analytics, spot and derivatives, alternative, and on-chain data in a powerful and intuitive platform.The Tie’s clients include the leading traditional and crypto-native hedge funds, OTC desks, market makers, trading venues, banks, sell-side firms, and other institutional market participants.We are backed by top-tier investors and are well positioned to scale. We love crypto and we’re excited about our role in its global proliferation.The PositionAs a Research Analyst for the Listing Team, you are responsible for the daily monitoring and maintenance of coins, companies, and funds on The Tie Terminal. You will contribute to the tagging and categorization model that covers 4,000+ curated sources for over 2,000+ assets/companies. Additionally, you will research tokens and protocols, prepare descriptions, and report on tokenomics and unlocks. In this position, you will become an expert on The Tie Terminal and a subject matter expert in blockchain/crypto. This is an excellent opportunity for a crypto enthusiast looking to launch their career in a fast-paced and dynamic environment.Responsibilities
+Description: DescriptionThe Tie is the leading provider of information services for digital assets. Our core offering, The Tie Terminal, is the fastest and most comprehensive workstation for institutional digital asset investors. The Terminal brings together real-time news from thousands of primary sources, with sentiment analytics, spot and derivatives, alternative, and on-chain data in a powerful and intuitive platform.The Tie’s clients include the leading traditional and crypto-native hedge funds, OTC desks, market makers, trading venues, banks, sell-side firms, and other institutional market participants.We are backed by top-tier investors and are well positioned to scale. We love crypto and we’re excited about our role in its global proliferation.The PositionAs a Research Analyst for the Listing Team, you are responsible for the daily monitoring and maintenance of coins, companies, and funds on The Tie Terminal. You will contribute to the tagging and categorization model that covers 4,000+ curated sources for over 2,000+ assets/companies. Additionally, you will research tokens and protocols, prepare descriptions, and report on tokenomics and unlocks. In this position, you will become an expert on The Tie Terminal and a subject matter expert in blockchain/crypto. This is an excellent opportunity for a crypto enthusiast looking to launch their career in a fast-paced and dynamic environment.Responsibilities
 Monitor The Tie Terminal for accuracy and resolve issues in a timely manner.
 Maintain listings of coins, companies, and funds including analysis, inclusion, updates, and removal.
 Research and prepare token/protocol descriptions and tokenomics. Monitor changes and governance proposals; update descriptions as necessary.
@@ -268,10 +267,10 @@ A fast-paced and exciting work environment
 Strong teamwork-driven culture
 
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=ATNwgDN__14nmKw
 --------------------------
 Title: Personal Brand and Socials Coordinator
-Description: https://web3.career/r/=IDNwgDN__14nmKw
-Link: Pixelynx is a new music and gaming venture that has been launched by deadmau5 and Richie Hawtin. We are building a music metaverse that makes it easy for any artist, label or events to launch their own interactive experiences and monetise them through Digital Collectables (NFTs)Pixelynx is looking for a Personal Brand and Socials Coordinator to develop and curate engaging content for the CEO’s personal social media platforms to dial in his image as a virtual artist and music producer. You will be responsible for the creation and editing of written, video, and photo content, including articles, posts and updates. You may also travel to attend events and produce live social media content. You will maintain a unified brand voice and represent the CEO across their different personal social media channels and oversee any aspect of marketing to cover personal brand both within and outside of Pixelynx.This role is remote and open to freelancers, however the ideal candidate will be based in the Los Angeles area.Job Responsibilities
+Description: Pixelynx is a new music and gaming venture that has been launched by deadmau5 and Richie Hawtin. We are building a music metaverse that makes it easy for any artist, label or events to launch their own interactive experiences and monetise them through Digital Collectables (NFTs)Pixelynx is looking for a Personal Brand and Socials Coordinator to develop and curate engaging content for the CEO’s personal social media platforms to dial in his image as a virtual artist and music producer. You will be responsible for the creation and editing of written, video, and photo content, including articles, posts and updates. You may also travel to attend events and produce live social media content. You will maintain a unified brand voice and represent the CEO across their different personal social media channels and oversee any aspect of marketing to cover personal brand both within and outside of Pixelynx.This role is remote and open to freelancers, however the ideal candidate will be based in the Los Angeles area.Job Responsibilities
 Representing the voice of the Pixelynx CEO through their personal social media channels
 Work with the wider Pixelynx family to represent the whole Pixelynx brand through the voice of the CEO
 Create and manage a content calendar 
@@ -298,15 +297,15 @@ Experience with Photoshop is a plus.
 You are passionate about what you do and about working on awesome projects that you can be proud of
 
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=IDNwgDN__14nmKw
 --------------------------
 Title: Fundraising Coordinator
-Description: https://web3.career/r/=ADNwgDN__14nmKw
-Link: HIRING: The Heal App Fundraising CoordinatorOur mission is to cultivate and incentivize a space for collective wellness. A utopia where holders can access live coaches and specialists to grow the mind, body, and spirit all within a safe community. Each NFT will unlock portions of the HippieVerse and features of The Heal App.Our App, slated to be ready by Q2 of 2023, will have live access to Certified Coaches, Trainers, and Specialists. Along with the live access, holders will have the ability to view exercises and join classes, earning rewards with each movement. Users can sign in with their NFT or with a monthly subscription. The app will allow users to earn rewards as they move and complete classes by wearing any type of HR monitor. These rewards can later be used in our Marketplace to purchase Merchandise, NFTs, and other Experiences!Since the app is being conceptualized with developers, we need someone who is keen on starting right away:-Is experienced in web3 projects.-Can guide on fundraising strategies.-Can advise on key decisions.-Is confident in putting together decks and financial projectionsIf you have a passion for wellness, technology, and startups, and have a proven track record of successful investments especially as an early bird, we invite you to apply.This opportunity is solely online and therefore can be worked on remotely. This is a fully paid opportunity via contract.*** PLEASE INCLUDE A COVER LETTER***
+Description: HIRING: The Heal App Fundraising CoordinatorOur mission is to cultivate and incentivize a space for collective wellness. A utopia where holders can access live coaches and specialists to grow the mind, body, and spirit all within a safe community. Each NFT will unlock portions of the HippieVerse and features of The Heal App.Our App, slated to be ready by Q2 of 2023, will have live access to Certified Coaches, Trainers, and Specialists. Along with the live access, holders will have the ability to view exercises and join classes, earning rewards with each movement. Users can sign in with their NFT or with a monthly subscription. The app will allow users to earn rewards as they move and complete classes by wearing any type of HR monitor. These rewards can later be used in our Marketplace to purchase Merchandise, NFTs, and other Experiences!Since the app is being conceptualized with developers, we need someone who is keen on starting right away:-Is experienced in web3 projects.-Can guide on fundraising strategies.-Can advise on key decisions.-Is confident in putting together decks and financial projectionsIf you have a passion for wellness, technology, and startups, and have a proven track record of successful investments especially as an early bird, we invite you to apply.This opportunity is solely online and therefore can be worked on remotely. This is a fully paid opportunity via contract.*** PLEASE INCLUDE A COVER LETTER***
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=ADNwgDN__14nmKw
 --------------------------
 Title: Blockchain Developer
-Description: https://web3.career/r/=kzMwgDN__14nmKw
-Link: Blockchain Developer InternLocation: Remote Duration: May 1, 2023 - September 1, 2023 Company Overview:Full-Service Consulting GroupBusiness Consulting - StartupsWe provide insight, strategy, and services to help these founders grow their businesses and achieve success. Act as a point of escalation for high-risk situations, and help resolve them where needed.- Growth StagesAlso, we help with planning rounds of fundraising planning showing metrics and future growth. Cultivate and sustain relationships with assigned clients beyond project delivery. Review accounts, cash burn analysis, determine upsells, and determine sectors of future growth.- MarketingProvide an analytical approach with go-to-market strategies within the budget set in place. Understanding of the technology or product to help set it apart from competitors or future competition. Customers can quickly understand the product at a high level.- SalesUnderstanding how to shorten sales cycles and improve conversions through better value propositions, sales processes, and sales capabilities. Hiring and training a sales team for a timely go-to-market launch.-Business DevelopmentProvide advice serving as a coach, advisor, consultant, and interim CEO.We have consulted many businesses and have achieved many wins for each entity.- Sports ConsultingReview market trends and analysis of the sports industry.We also introduce start-ups from our technology incubator into the sports and entertainment marketplace in an ongoing effort to keep our clients one step ahead of the competition.We also specialize in agent selection, insurance plans, branding, risk management, career planning, and marketing. Provide processes for organizational & team selection of coaches or coaches. Specialization in team marketing, promotions, and tournaments.The building of Sports Agencies from the ground up.Baseball Analytics & Strategy as well as Pitcher evaluations.Job Description:We are seeking a highly motivated Blockchain Developer Intern to join our team. As a Blockchain Developer Intern, you will be responsible for designing, implementing, and maintaining blockchain solutions. You will have the opportunity to work with cutting-edge blockchain technology and contribute to the development of exciting new products.Responsibilities:
+Description: Blockchain Developer InternLocation: Remote Duration: May 1, 2023 - September 1, 2023 Company Overview:Full-Service Consulting GroupBusiness Consulting - StartupsWe provide insight, strategy, and services to help these founders grow their businesses and achieve success. Act as a point of escalation for high-risk situations, and help resolve them where needed.- Growth StagesAlso, we help with planning rounds of fundraising planning showing metrics and future growth. Cultivate and sustain relationships with assigned clients beyond project delivery. Review accounts, cash burn analysis, determine upsells, and determine sectors of future growth.- MarketingProvide an analytical approach with go-to-market strategies within the budget set in place. Understanding of the technology or product to help set it apart from competitors or future competition. Customers can quickly understand the product at a high level.- SalesUnderstanding how to shorten sales cycles and improve conversions through better value propositions, sales processes, and sales capabilities. Hiring and training a sales team for a timely go-to-market launch.-Business DevelopmentProvide advice serving as a coach, advisor, consultant, and interim CEO.We have consulted many businesses and have achieved many wins for each entity.- Sports ConsultingReview market trends and analysis of the sports industry.We also introduce start-ups from our technology incubator into the sports and entertainment marketplace in an ongoing effort to keep our clients one step ahead of the competition.We also specialize in agent selection, insurance plans, branding, risk management, career planning, and marketing. Provide processes for organizational & team selection of coaches or coaches. Specialization in team marketing, promotions, and tournaments.The building of Sports Agencies from the ground up.Baseball Analytics & Strategy as well as Pitcher evaluations.Job Description:We are seeking a highly motivated Blockchain Developer Intern to join our team. As a Blockchain Developer Intern, you will be responsible for designing, implementing, and maintaining blockchain solutions. You will have the opportunity to work with cutting-edge blockchain technology and contribute to the development of exciting new products.Responsibilities:
 Design and implement blockchain solutions
 Collaborate with cross-functional teams to ensure proper integration with existing systems
 Develop smart contracts and decentralized applications (dApps) on various blockchain platforms
@@ -332,10 +331,10 @@ Mentorship from experienced blockchain developers
 Networking opportunities with industry professionals
 If you are a highly motivated individual with a passion for blockchain technology and a desire to make a meaningful impact, we would love to hear from you. Please submit your resume and a brief cover letter explaining why you are interested in this internship.
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=kzMwgDN__14nmKw
 --------------------------
 Title: Business Development Assistant
-Description: https://web3.career/r/=czMwgDN__14nmKw
-Link: About DoraHacksDoraHacks is a global hackathon organizer and one of the world's most active multi-chain Web3 developer platforms. Our platform enables hackers and open source developers around the world to participate in Hackathons, Bounty, Grant, Grant DAO, and get funding through the encrypted native protocol and infrastructure provided by DoraHacks. By far, more than 4000 projects from the DoraHacks community have received over $25 million in grants . A large number of open source communities, DAOs, and more than 50 major blockchain ecosystems are actively using Dora's infrastructure (DoraHacks.io) for open source funding and community governance.DoraHacks is building the future open source curation market. We believe that by equipping developers with the best tools, connecting them to the right people, we can help the open source community solve the whole world's problems better.For More InfoPlease visit our Website｜LinkedIn｜Twitter｜Discord |Youtube | Bilibili | DORA RESEARCH BLOGJoin UsIf you are motivated by the infinite hacker movementIf you are curious about the outerspaceIf you are ready to solve the real problems of the worldIf you are passionate about building the future of Web3 worldIf you want to be a digital nomadContact usRecruiting@dorahacks.comResponsibilities
+Description: About DoraHacksDoraHacks is a global hackathon organizer and one of the world's most active multi-chain Web3 developer platforms. Our platform enables hackers and open source developers around the world to participate in Hackathons, Bounty, Grant, Grant DAO, and get funding through the encrypted native protocol and infrastructure provided by DoraHacks. By far, more than 4000 projects from the DoraHacks community have received over $25 million in grants . A large number of open source communities, DAOs, and more than 50 major blockchain ecosystems are actively using Dora's infrastructure (DoraHacks.io) for open source funding and community governance.DoraHacks is building the future open source curation market. We believe that by equipping developers with the best tools, connecting them to the right people, we can help the open source community solve the whole world's problems better.For More InfoPlease visit our Website｜LinkedIn｜Twitter｜Discord |Youtube | Bilibili | DORA RESEARCH BLOGJoin UsIf you are motivated by the infinite hacker movementIf you are curious about the outerspaceIf you are ready to solve the real problems of the worldIf you are passionate about building the future of Web3 worldIf you want to be a digital nomadContact usRecruiting@dorahacks.comResponsibilities
 Support business development activities including researching potential clients, competitors, and market trends to help identify new business opportunities
 Provide administrative support to the business team, including coordinating meeting and event arrangements, preparing meeting materials, arranging travel, and coordinating with the team to reasonably arrange business budgets and expenses
 Assist the head of the business team to formulate business strategies, write business reports and proposals, supervise the proposal process, and maintain business partner relationships
@@ -361,10 +360,10 @@ LogisticsThis is a remote position that can be done from anywhere. We are able t
 
 If you need any support for the interview process, pls do not hesitate to contact us byrecruiting@dorahacks.com
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=czMwgDN__14nmKw
 --------------------------
 Title: Finance Analyst
-Description: https://web3.career/r/=YzMwgDN__14nmKw
-Link: Who We AreAt Galaxy we are building products and services to help the world invest in economic progress. We believe crypto and blockchain innovations will permeate and improve all aspects of our global economy. Our vision is a society where value and ownership flow as freely as information. Galaxy is a digital asset and blockchain leader helping institutions, startups, and individuals access and navigate the crypto economy. As one of the most well-capitalized and trusted companies in the industry, we provide platform solutions custom-made for a digitally native ecosystem across multiple synergistic business lines: Trading, Asset Management (passive and active strategies), Principal Investments, Investment Banking Services, and Mining. Galaxy’s CEO and Founder Michael Novogratz leads a team of crypto enthusiasts, and institutional veterans focused on the future of finance and Web3. The Company is headquartered in New York City, with offices in Chicago, London, Amsterdam, Tokyo, Hong Kong, the Cayman Islands (registered office), and New Jersey.Additional information about the Company's businesses and products is available on www.galaxy.com.What We ValueWe are a diverse team of free thinkers, and fast movers united to help investors and creators energize the global economy. We are looking for individuals who thrive in a culture of builders and overachievers and embrace high performance, transparent feedback, and a mission-first approach. Our culture shapes our way of working and gets us where we want to be.
+Description: Who We AreAt Galaxy we are building products and services to help the world invest in economic progress. We believe crypto and blockchain innovations will permeate and improve all aspects of our global economy. Our vision is a society where value and ownership flow as freely as information. Galaxy is a digital asset and blockchain leader helping institutions, startups, and individuals access and navigate the crypto economy. As one of the most well-capitalized and trusted companies in the industry, we provide platform solutions custom-made for a digitally native ecosystem across multiple synergistic business lines: Trading, Asset Management (passive and active strategies), Principal Investments, Investment Banking Services, and Mining. Galaxy’s CEO and Founder Michael Novogratz leads a team of crypto enthusiasts, and institutional veterans focused on the future of finance and Web3. The Company is headquartered in New York City, with offices in Chicago, London, Amsterdam, Tokyo, Hong Kong, the Cayman Islands (registered office), and New Jersey.Additional information about the Company's businesses and products is available on www.galaxy.com.What We ValueWe are a diverse team of free thinkers, and fast movers united to help investors and creators energize the global economy. We are looking for individuals who thrive in a culture of builders and overachievers and embrace high performance, transparent feedback, and a mission-first approach. Our culture shapes our way of working and gets us where we want to be.
  Seek Excellence. 
  Be Selective To Be Effective. 
  Be Highly Aligned, Loosely Coupled. 
@@ -405,10 +404,10 @@ Employee Resource Groups
 Benefits may vary depending on location.
 Apply now and join us on our mission to engineer a new economic paradigm.The base salary ranges included below are for NY-based hires only and will be commensurate with candidate experience and expertise. Base salary ranges for candidates in other locations other than New York may differ based on the cost of labor in that location. Final offer amounts are determined by multiple factors including geographic location as well as candidate experience and expertise, and may vary from the amounts listed below. At Galaxy, we maintain a total compensation philosophy which consists of a competitive base salary, annual bonus, and equity incentives.New York Base Salary Range$90,000 — $110,000 USDGalaxy respects diversity and seeks to provide equal employment opportunities to all employees and job applicants for employment without regard to actual or perceived age, race, color, creed, religion, sex or gender (including pregnancy, childbirth, lactation and related medical conditions), gender identity or gender expression (including transgender status), sexual orientation, marital or partnership or caregiver status, ancestry, national origin, citizenship status, disability, military or veteran status, protected medical condition as defined by applicable state or local law, genetic information or predisposing genetic characteristic, or other characteristic protected by applicable federal, state, or local laws and ordinances.We will endeavor to make a reasonable accommodation to the known limitations of a qualified applicant with a disability unless the accommodation would impose an undue hardship on the operation of our business. If you believe you require such assistance to complete the application process or to participate in an interview, please contact careers@galaxy.com.
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=YzMwgDN__14nmKw
 --------------------------
 Title: Executive Director of Partnerships &amp; Growth - Americas
-Description: https://web3.career/r/=UzMwgDN__14nmKw
-Link: Journee reconnects people in the virtual realm, offering a groundbreaking solution for people to come together virtually and enjoy the most high-end 3D interactive experience in the metaverse.We are scaling fast while working with top global brands (global players as Vogue Business, WWF, BMW, H&M, Siemens, DEPT, McCann, Adidas, Conde Nast, to mention a few), and are looking for those ready to join the adventure.Does the world of Web3 and the future of the internet excite you? Are you a natural networker & communicator that can strategize with key decision-makers at top brands? Do you thrive in a fast-paced environment and value the impact of an amazing team? Then we want to speak to you!Your mission is to establish Journee as the leading metaverse solution in the region. You will be identifying growth opportunities and negotiating partnerships that will enable our ambitious growth plans. This is a role that requires a high degree of autonomy and ownership from day one, so we are looking for someone who is well-connected in the region and within the web3 community yet works well independently.You will be working closely with management who frequently visits the region, and be supported by our business development team and the rest of the organization. Teamwork makes the dream work!This is an amazing opportunity to join a company with a fast growth trajectory, and make a real impact. Let us get to the next level together!What you'll be doing:
+Description: Journee reconnects people in the virtual realm, offering a groundbreaking solution for people to come together virtually and enjoy the most high-end 3D interactive experience in the metaverse.We are scaling fast while working with top global brands (global players as Vogue Business, WWF, BMW, H&M, Siemens, DEPT, McCann, Adidas, Conde Nast, to mention a few), and are looking for those ready to join the adventure.Does the world of Web3 and the future of the internet excite you? Are you a natural networker & communicator that can strategize with key decision-makers at top brands? Do you thrive in a fast-paced environment and value the impact of an amazing team? Then we want to speak to you!Your mission is to establish Journee as the leading metaverse solution in the region. You will be identifying growth opportunities and negotiating partnerships that will enable our ambitious growth plans. This is a role that requires a high degree of autonomy and ownership from day one, so we are looking for someone who is well-connected in the region and within the web3 community yet works well independently.You will be working closely with management who frequently visits the region, and be supported by our business development team and the rest of the organization. Teamwork makes the dream work!This is an amazing opportunity to join a company with a fast growth trajectory, and make a real impact. Let us get to the next level together!What you'll be doing:
 Responsible for developing the regional growth and partnership strategy
 Ownership of executing partnership initiatives - you are a do'er
 Building and cultivating strong relationships and trust with key partners and market movers
@@ -436,10 +435,10 @@ We have strong values in place: high performance, transparency, open communicati
 Salary & BenefitsThe base salary range for his role is $150,000- $210,000, the exact compensation may vary based on skillset and experience. Our coverage also includes medical, dental and vision coverage. We provide a 401k with competitive match and profit share as well as caregiver (Parental) leave. 
 Journee is committed to creating a diverse and inclusive workplace where everyone is treated with dignity, respect, and fairness. We value diversity in all its forms, including but not limited to race, ethnicity, gender, sexual orientation, age, religion, national origin, disability, and veteran status. We believe that a diverse and inclusive workplace leads to better business outcomes, stronger relationships with our customers and partners, and a more fulfilling work experience for our employees.
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=UzMwgDN__14nmKw
 --------------------------
 Title: Executive Director of New Business - Americas
-Description: https://web3.career/r/=QzMwgDN__14nmKw
-Link: Journee reconnects people in the virtual realm, offering a groundbreaking solution for people to come together virtually and enjoy the most high-end 3D interactive experience in the metaverse.We are scaling fast while working with top global brands (global players as Vogue Business, WWF, BMW, H&M, Siemens, DEPT, McCann, Adidas, Conde Nast, to mention a few), and are looking for those ready to join the adventure.Does the world of Web3 and the future of the internet excite you? Are you a natural networker & communicator that can strategize with key decision-makers at top brands? Do you thrive in a fast-paced environment and value the impact of an amazing team? Then we want to speak to you!Your mission as Executive Director of New Business in the Americas is to establish Journee as the leading metaverse solution. You will be leading the commercial expansion by strategically identifying and securing both short and long-term business opportunities, as well as owning the funnel. You will receive a high degree of autonomy and ownership from day one, so we are looking for someone who is well-connected in the region (and web3 industry) and is used to working independently. You need to be passionate, sales and revenue-focused, and enjoy working in a fast-paced startup environment.You will be working closely with management who frequently visits the region, and be supported by our sales team and the rest of the organization. Teamwork makes the dream work!This is an amazing opportunity to join a company with a fast growth trajectory, and make a real impact. Let us get to the next level together!What you'll be doing:
+Description: Journee reconnects people in the virtual realm, offering a groundbreaking solution for people to come together virtually and enjoy the most high-end 3D interactive experience in the metaverse.We are scaling fast while working with top global brands (global players as Vogue Business, WWF, BMW, H&M, Siemens, DEPT, McCann, Adidas, Conde Nast, to mention a few), and are looking for those ready to join the adventure.Does the world of Web3 and the future of the internet excite you? Are you a natural networker & communicator that can strategize with key decision-makers at top brands? Do you thrive in a fast-paced environment and value the impact of an amazing team? Then we want to speak to you!Your mission as Executive Director of New Business in the Americas is to establish Journee as the leading metaverse solution. You will be leading the commercial expansion by strategically identifying and securing both short and long-term business opportunities, as well as owning the funnel. You will receive a high degree of autonomy and ownership from day one, so we are looking for someone who is well-connected in the region (and web3 industry) and is used to working independently. You need to be passionate, sales and revenue-focused, and enjoy working in a fast-paced startup environment.You will be working closely with management who frequently visits the region, and be supported by our sales team and the rest of the organization. Teamwork makes the dream work!This is an amazing opportunity to join a company with a fast growth trajectory, and make a real impact. Let us get to the next level together!What you'll be doing:
 Responsible for developing the regional B2B sales strategy within the target segments
 Ownership of identifying and executing business development initiatives that translate to direct leads in the sales funnel
 Owning the sales funnel from strategy to execution
@@ -470,10 +469,10 @@ We have strong values in place: high performance, transparency, open communicati
 SalaryThe base salary range for his role is $150,000- $215,000, the exact compensation may vary based on skillset and experience. Our coverage also includes medical, dental, and vision coverage. We provide a 401k with competitive match and profit share as well as caregiver (Parental) leave. 
 Journee is committed to creating a diverse and inclusive workplace where everyone is treated with dignity, respect, and fairness. We value diversity in all its forms, including but not limited to race, ethnicity, gender, sexual orientation, age, religion, national origin, disability, and veteran status. We believe that a diverse and inclusive workplace leads to better business outcomes, stronger relationships with our customers and partners, and a more fulfilling work experience for our employees.
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=QzMwgDN__14nmKw
 --------------------------
 Title: Investor Fundraising Director DeFi and Ai
-Description: https://web3.career/r/=gjMwgDN__14nmKw
-Link: We are Hypergrowth, helping start-ups teams grow and succeed. We empower breakthrough ideas! Growth is not a secret, a mystery, or a miracle. It is the result of hard work and true partnership. We know both and we’re ready to help you excel and lead in your industry. We are dedicated to level the playing field of entrepreneurship and make good ideas succeed.
+Description: We are Hypergrowth, helping start-ups teams grow and succeed. We empower breakthrough ideas! Growth is not a secret, a mystery, or a miracle. It is the result of hard work and true partnership. We know both and we’re ready to help you excel and lead in your industry. We are dedicated to level the playing field of entrepreneurship and make good ideas succeed.
 
 We are looking for an Investor Fundraising Director to help us rapidly grow our business through strategic fundraising as we stand up our Venture Vuilding Department.
 
@@ -507,10 +506,10 @@ Hypergrowth focuses on Big Data Analytics, Marketing, Cryptocurrency, Blockchain
 
 You can view their website at https://hypergrowth.io  or find them on LinkedIn.
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=gjMwgDN__14nmKw
 --------------------------
 Title: Senior Blockchain Engineer
-Description: https://web3.career/r/=YjMwgDN__14nmKw
-Link: Who we're looking for
+Description: Who we're looking for
 
 Job Title: Senior Blockchain Engineer
 Hours: Full time
@@ -544,10 +543,10 @@ KyePot focuses on Finance, Consumer Lending, Crowdfunding, Social, and Fin Tech.
 
 You can view their website at http://www.kyepot.com  or find them on Twitter, Facebook, and LinkedIn.
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=YjMwgDN__14nmKw
 --------------------------
 Title: Business Intelligence (BI) /Data Analyst (DeFi) - Digital Assets
-Description: https://web3.career/r/=ETMwgDN__14nmKw
-Link: BI/Data Analyst (DeFi) - Digital Assets Keyrock is expanding!Keyrock was founded in 2017 and has quickly grown from 3 to over 100 people today. As an industry recognized liquidity provider and market maker, Keyrock is a leading European creator of algorithmic trading technologies in the digital asset space. With VC backing including Series B investment from Ripple, a constantly expanding global client base, and revenues growth 13x in 2021, Keyrock is one of Belgium’s fastest-growing fintech companies.We’re currently active on over 80 exchanges and count numerous marketplaces and asset issuers among our clients, including some of the best-known companies in the digital assets space.Keyrock's beating heart is its technical team filled with crypto and DeFi natives, software engineers, digital scientists and academics, who themselves are supported by university professors, industry-leading experts and a strong management team. Over the years Keyrock has become a company that is both idealistic and practical.We are looking for… A Data Analyst with experience in the use of data to create financial insights, ideally DeFi functions but it can also be Trading - TradFi and/or Digital Assets. Job Description
+Description: BI/Data Analyst (DeFi) - Digital Assets Keyrock is expanding!Keyrock was founded in 2017 and has quickly grown from 3 to over 100 people today. As an industry recognized liquidity provider and market maker, Keyrock is a leading European creator of algorithmic trading technologies in the digital asset space. With VC backing including Series B investment from Ripple, a constantly expanding global client base, and revenues growth 13x in 2021, Keyrock is one of Belgium’s fastest-growing fintech companies.We’re currently active on over 80 exchanges and count numerous marketplaces and asset issuers among our clients, including some of the best-known companies in the digital assets space.Keyrock's beating heart is its technical team filled with crypto and DeFi natives, software engineers, digital scientists and academics, who themselves are supported by university professors, industry-leading experts and a strong management team. Over the years Keyrock has become a company that is both idealistic and practical.We are looking for… A Data Analyst with experience in the use of data to create financial insights, ideally DeFi functions but it can also be Trading - TradFi and/or Digital Assets. Job Description
  Using BI tools connected to Keyrock DBs and external resources to analyze our trading activities and draw actionable conclusions
  Support the Innovation team in optimizing trading strategies and help understand the results of trading decisions
  Deliver quantitative insights into on-chain activities toward internal and external clients
@@ -575,10 +574,10 @@ Keyrock offers you both a career and a large range of benefits that we will glad
 
 As an employer we are committed to build an inclusive, diverse and non-discriminating work environment. We welcome employees of all backgrounds, ethnicities, genders, creed and sexual orientation. We hire, reward and promote entirely based on merit and performance.
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=ETMwgDN__14nmKw
 --------------------------
 Title: Quantitative Developer
-Description: https://web3.career/r/=gDMwgDN__14nmKw
-Link: Crypto markets have grown exponentially over the past few years, seeing increased adoption from retail participants as well as institutions. We believe that the next order of magnitude change will come from mass adoption of decentralized, community owned platforms across different verticals - finance, social media, gaming etc.With this philosophy, Relative Finance is aiming to bring the next generation of DeFi derivatives products to market - check us out at https://relative.fi We’re an early-stage, venture-backed team, hiring engineers with a strong sense of direction & ownership. We are looking for a skilled and passionate quantitive analyst to join our team as we grow and expand our protocol and product offering. 
+Description: Crypto markets have grown exponentially over the past few years, seeing increased adoption from retail participants as well as institutions. We believe that the next order of magnitude change will come from mass adoption of decentralized, community owned platforms across different verticals - finance, social media, gaming etc.With this philosophy, Relative Finance is aiming to bring the next generation of DeFi derivatives products to market - check us out at https://relative.fi We’re an early-stage, venture-backed team, hiring engineers with a strong sense of direction & ownership. We are looking for a skilled and passionate quantitive analyst to join our team as we grow and expand our protocol and product offering. 
 
 
 Requirements 
@@ -604,10 +603,10 @@ Demonstrate a strong quantitive background with experience in modelling and risk
 
 
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=gDMwgDN__14nmKw
 --------------------------
 Title: Web3 Financial Officer
-Description: https://web3.career/r/=czM5QDN__14nmKw
-Link: Do you want to shape the future of web3 in a fast growing well funded startup?
+Description: Do you want to shape the future of web3 in a fast growing well funded startup?
 
 EtherMail is the first Web 3.0 Email solution setting the standard for anonymous and encrypted wallet-to-wallet communication, built by a team dedicated to bringing back full ownership, control and sovereignty of the inbox to users. EtherMail brings the best of blockchain technologies and traditional Email together and has attracted since its launch more than hundred thousands of users globally.
 
@@ -660,10 +659,10 @@ Competitive compensation, benefits and token participation
 
 
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=czM5QDN__14nmKw
 --------------------------
 Title: Social Media Manager 
-Description: https://web3.career/r/=kTO5cDN__14nmKw
-Link: ByteTrade Labs is a leading provider of Web3 solutions for the blockchain industry. We are backed by leading institutional investors including SIG Asia Venture Capital Fund, INCE Capital, BAI Capital, Sky9 Capital, and NGC Ventures. With a recent 40 Million USD Series-A fundraising in June 2022, we are well-positioned to continue building and investing in the Web3 ecosystem.
+Description: ByteTrade Labs is a leading provider of Web3 solutions for the blockchain industry. We are backed by leading institutional investors including SIG Asia Venture Capital Fund, INCE Capital, BAI Capital, Sky9 Capital, and NGC Ventures. With a recent 40 Million USD Series-A fundraising in June 2022, we are well-positioned to continue building and investing in the Web3 ecosystem.
 
 At ByteTrade, we are actively involved in early-stage investing and incubating Web3 projects to build up our BEC Ecosystem. Our goal is to enable builders in the Web3 space by providing a wide range of resources, including fundraising, business planning, GTM strategies, and technology expertise.
 
@@ -687,10 +686,10 @@ Who you are:
  • Strong analytical skills and the ability to measure and report on community engagement and growth.
 
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=kTO5cDN__14nmKw
 --------------------------
 Title: Automation Engineer - the biggest crypto exchange
-Description: https://web3.career/r/=UTO5cDN__14nmKw
-Link: 100x Group explores, incubates and pursues opportunities and investments, as part of its mission to reshape the modern digital financial system into one which is inclusive and empowering. 100x Group is behind the cryptocurrency derivatives trading platform, BitMEX.
+Description: 100x Group explores, incubates and pursues opportunities and investments, as part of its mission to reshape the modern digital financial system into one which is inclusive and empowering. 100x Group is behind the cryptocurrency derivatives trading platform, BitMEX.
 
 The 100x Group infrastructure team sits at the core of the business and is responsible for the reliability and scalability of all the services that power the BitMEX platform and its developers. As the BitMEX trading platform handles ten of thousands of low latency transactions per second, representing several billions of dollars traded every day.
 
@@ -738,10 +737,10 @@ CXC Australasia focuses on Mobile, Enterprise Software, Software, Innovation Eng
 
 You can view their website at https://www.cxcglobal.com
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=UTO5cDN__14nmKw
 --------------------------
 Title: Senior Engineer - Java (Defi)
-Description: https://web3.career/r/=QTO5cDN__14nmKw
-Link: About OKX:
+Description: About OKX:
 
 At OKX, we believe our future is reshaped with technology. Founded in 2017, OKX is one of the world’s leading cryptocurrency spot and derivatives exchanges. OKX innovatively adopted blockchain technology to reshape the financial ecosystem by offering some of the most diverse and sophisticated products, solutions, and trading tools on the market. Trusted by more than 20 million users in over 180 regions globally, OKX strives to provide an engaging platform that empowers every individual to explore the world of crypto. In addition to its world-class DeFi exchange, OKX serves its users with OKX Insights, a research arm that is at the cutting edge of the latest trends in the cryptocurrency industry. With its extensive range of crypto products and services, and unwavering commitment to innovation, OKX vision is a world of financial access backed by blockchain and the power of decentralized finance.
 
@@ -770,10 +769,10 @@ OKEX focuses on Finance Technology, Cryptocurrency, Bitcoin Exchange, and Blockc
 
 You can view their website at http://www.okex.com  or find them on LinkedIn.
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=QTO5cDN__14nmKw
 --------------------------
 Title: Blockchain Product Manager (Data analyst)
-Description: https://web3.career/r/=MTO5cDN__14nmKw
-Link: About Us:
+Description: About Us:
 
 At OKX, we believe our future is reshaped with technology. Founded in 2017, OKX is one of the world’s leading cryptocurrency spot and derivatives exchanges. OKX innovatively adopted blockchain technology to reshape the financial ecosystem by offering some of the most diverse and sophisticated products, solutions, and trading tools on the market. Trusted by more than 20 million users in over 180 regions globally, OKX strives to provide an engaging platform that empowers every individual to explore the world of crypto. In addition to its world-class DeFi exchange, OKX serves its users with OKX Insights, a research arm that is at the cutting edge of the latest trends in the cryptocurrency industry. With its extensive range of crypto products and services, and unwavering commitment to innovation, OKX vision is a world of financial access backed by blockchain and the power of decentralized finance.
 
@@ -804,10 +803,10 @@ OKEX focuses on Finance Technology, Cryptocurrency, Bitcoin Exchange, and Blockc
 
 You can view their website at http://www.okex.com  or find them on LinkedIn.
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=MTO5cDN__14nmKw
 --------------------------
 Title: Crypto Mining Analyst
-Description: https://web3.career/r/=ITO5cDN__14nmKw
-Link: *Crypto Mining Analyst *
+Description: *Crypto Mining Analyst *
 We are looking for individuals with a passion for crypto and a background in data analysis, finance, or research.
 
 Overview
@@ -842,10 +841,10 @@ Unmapped focuses on Blockchain / Cryptocurrency. Their company has offices in Lo
 
 You can view their website at http://unmapped.co  or find them on LinkedIn.
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=ITO5cDN__14nmKw
 --------------------------
 Title: Marketing Lead
-Description: https://web3.career/r/=gDO5cDN__14nmKw
-Link: Who we are
+Description: Who we are
 ParagonsDAO is a gamer and investor community focused on unleashing the potential of Web3 gamers. We’re trailblazing the Web3 gaming ecosystem by reducing barriers-to-entry for traditional gamers, making playable assets accessible to all, offering education and coaching, igniting the competitive landscape, and building innovative Web3 and GameFi solutions. 
 We are a passionate team of builders, engineers, designers, story-tellers and industry veterans. We pride ourselves on being inspiring leaders and strategic thinkers, and above all else passionate gamers.
 We strive to live off of our eight core values:
@@ -900,10 +899,10 @@ Pay will depend on the successful applicant’s skills and experience.
 Compensation will be paid through a combination of, primarily, a stablecoin (i.e. a cryptocurrency pegged to the US dollar) and secondarily, $PDT (the token that represents ParagonsDAO governance and equity).
 
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=gDO5cDN__14nmKw
 --------------------------
 Title: Lead Software Engineer
-Description: https://web3.career/r/=UDO5cDN__14nmKw
-Link: Do you self-identify as a great problem solver (not just a coder)?
+Description: Do you self-identify as a great problem solver (not just a coder)?
 Have you been honing your innovation craft for years yet yearning for more complex challenges?
 Does the opportunity to play a key role in the launch of a software platform with massive impact (for millions or even billions of people) excite you?
 If you’ve answered with 3 resounding yeses, then we want to meet you! 
@@ -937,10 +936,10 @@ A bit more about our Multinational, High-Performance (and primarily remote) Team
 Join a highly talented multicultural team that is based all over the world. We have offices in San Francisco, New York, Warsaw, Amsterdam, Berlin, and several locations in Asia. As stated above, we make remote working possible by embracing our ethos, yet many teams also travel to meet in person every 1-2 months. We all want high degrees of autonomy and flexibility to make life and work fun, but transparency, accountability/ownership are the requisites.
 
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=UDO5cDN__14nmKw
 --------------------------
 Title: QA Engineer
-Description: https://web3.career/r/=EDO5cDN__14nmKw
-Link: Are you a gritty, 0-1 sort of QA engineer looking for more autonomy and responsibility, someone who can deliver value in a seed-funded company where ambiguity is part of your everyday?Myna Swap, a new online trading and vaulting platform for sports cards and other collectible hard goods, raised $6 million in its Seed funding round [1]. The company is currently developing the Myna Platform, a digital marketplace for physical goods based on the Avalanche blockchain. Collectors can use Myna Swap to convert their physical products into digital "twins." The tokenized assets can then be bought and sold without having to exchange physical items each time.We are looking for a QA Engineer to develop and execute exploratory and automated tests, primarily with an end-to-end focus. Responsibilities will include designing and implementing tests, debugging and defining corrective actions. The successful candidate will also review requirements and track quality assurance metrics.This role plays a crucial part in our company’s product development process. Our ideal candidate will be responsible for conducting tests to ensure software runs smoothly and meets expectations, while being cost-effective. If you hold an engineering background and enjoy providing end-to-end solutions to software quality problems, we’d love to meet you.Come be our first full-time hire for QA, responsible for taking our platform to the next level while reporting to the VP of Engineering.Principals only; no agencies of any nature.[1] : https://bit.ly/myna-raises-6m-seedProcess
+Description: Are you a gritty, 0-1 sort of QA engineer looking for more autonomy and responsibility, someone who can deliver value in a seed-funded company where ambiguity is part of your everyday?Myna Swap, a new online trading and vaulting platform for sports cards and other collectible hard goods, raised $6 million in its Seed funding round [1]. The company is currently developing the Myna Platform, a digital marketplace for physical goods based on the Avalanche blockchain. Collectors can use Myna Swap to convert their physical products into digital "twins." The tokenized assets can then be bought and sold without having to exchange physical items each time.We are looking for a QA Engineer to develop and execute exploratory and automated tests, primarily with an end-to-end focus. Responsibilities will include designing and implementing tests, debugging and defining corrective actions. The successful candidate will also review requirements and track quality assurance metrics.This role plays a crucial part in our company’s product development process. Our ideal candidate will be responsible for conducting tests to ensure software runs smoothly and meets expectations, while being cost-effective. If you hold an engineering background and enjoy providing end-to-end solutions to software quality problems, we’d love to meet you.Come be our first full-time hire for QA, responsible for taking our platform to the next level while reporting to the VP of Engineering.Principals only; no agencies of any nature.[1] : https://bit.ly/myna-raises-6m-seedProcess
 15 min Meet-and-Greet w/VPE
 45 min Panel Interview w/Sr. BE & FE
 15 min Culture Fit w/CEO
@@ -971,10 +970,10 @@ Periodic onsites (currently every ~8 weeks, often in LA)
 Support for participation in AVAX-related events such as NFT.nyc & nftla.live
 
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=EDO5cDN__14nmKw
 --------------------------
 Title: Social Media Account Manager
-Description: https://web3.career/r/=ADO5cDN__14nmKw
-Link: Get Engaged is a leading full-service marketing agency with a focus in social media and influencer marketing. We are looking to hire a Social Media Account Manager with 2-3+ years agency experience who will develop and implement digital strategies while assisting in the content ideation and creation process for a variety of category-leading NFT and Web3 integrated projects.Responsibilities:
+Description: Get Engaged is a leading full-service marketing agency with a focus in social media and influencer marketing. We are looking to hire a Social Media Account Manager with 2-3+ years agency experience who will develop and implement digital strategies while assisting in the content ideation and creation process for a variety of category-leading NFT and Web3 integrated projects.Responsibilities:
 Develop platform strategies specific to clients’ unique needs
 Generate, edit, publish and share engaging content daily
 Utilize social listening tools and native platform features to inform ongoing content and to capitalize on real-time trends
@@ -998,10 +997,10 @@ Experience pulling and analyzing social media platform metrics in order to build
 Desire to push Get Engaged and our clients to unique, and at times uncomfortable, new heights.
 
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=ADO5cDN__14nmKw
 --------------------------
 Title: Product Manager
-Description: https://web3.career/r/=kzN5cDN__14nmKw
-Link: Responsibilities
+Description: Responsibilities
 
 Responsible for product requirement gathering and planning, product requirements, and roadmap
 Analyze client demand, industry trends, and competitor activities to provide business insights and promote innovation in product development and service offerings
@@ -1022,10 +1021,10 @@ B.S. or M.S. degree in relevant field, engineering background and experience is 
 
 
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=kzN5cDN__14nmKw
 --------------------------
 Title: Smart Contract Engineer
-Description: https://web3.career/r/=YzN5cDN__14nmKw
-Link: Responsibilities:
+Description: Responsibilities:
 
 Design, develop and maintain blockchain-based applications and smart contracts using popular programming languages such as Solidity, Rust, Golang, etc.
 Collaborate with the team to identify and prioritize blockchain application features and functionalities
@@ -1049,10 +1048,10 @@ Great product and business sense
 
 
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=YzN5cDN__14nmKw
 --------------------------
 Title: Business Development & Partnerships Manager
-Description: https://web3.career/r/=IzN5cDN__14nmKw
-Link: Responsibilities
+Description: Responsibilities
 We are seeking passionate, dedicated and proactive people to join as a Business Development & Partnerships Manager. As the Business Development& Partnerships Manager, you will have the opportunity to grow our BD team from the ground up. You will be responsible for developing the partnerships that drive our transactional volume and growth over the coming years. We are looking for a partnerships leader who can help to implement and refine our strategy, drive integrations, and establish commercial and promotional partnerships.
  Job Description
 · Work collaboratively with the team to drive growth with new opportunities.
@@ -1084,10 +1083,10 @@ Concise speaker, storyteller, & writer who can deliver the message to target cus
 ·  A fast learner with a growth mindset
 
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=IzN5cDN__14nmKw
 --------------------------
 Title: DevOps Engineer
-Description: https://web3.career/r/=EzN5cDN__14nmKw
-Link: At Etherspot, we're dedicated to pushing the boundaries of Account Abstraction through innovation, and we've cultivated a thriving, collaborative culture where expertise and passion are highly prized. Our team is comprised of welcoming, enthusiastic individuals who are passionate about building outstanding products. And right now, we're looking for talented individuals to join our team!
+Description: At Etherspot, we're dedicated to pushing the boundaries of Account Abstraction through innovation, and we've cultivated a thriving, collaborative culture where expertise and passion are highly prized. Our team is comprised of welcoming, enthusiastic individuals who are passionate about building outstanding products. And right now, we're looking for talented individuals to join our team!
 Objectives of this role
 
 Building and implementing new development tools and infrastructure
@@ -1122,18 +1121,18 @@ If you are excited about Account Abstraction and are passionate about helping de
 
 
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=EzN5cDN__14nmKw
 --------------------------
 Title: Blockchain Developer
-Description: https://web3.career/r/=EjN5cDN__14nmKw
-Link: We're hiring for our client:Web3 Engineer - Solidity (Smart Contract Developer) Qualifications
+Description: We're hiring for our client:Web3 Engineer - Solidity (Smart Contract Developer) Qualifications
 At least 2 years of professional engineering experience in web3. 
 Typescript, web3.js or ether.js 
 Open to remote across US (NYC Preferred) T/C $200K
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=EjN5cDN__14nmKw
 --------------------------
 Title: Software Engineer - Solidity
-Description: https://web3.career/r/=AjN5cDN__14nmKw
-Link: Highlights
+Description: Highlights
 Salary Range: $120k – $240k with equity option
 
 Required Skill-Set: React, Typescript, Next.js, Node, HTML/CSS, Tailwind, Solidity
@@ -1148,10 +1147,10 @@ Experience developing with little to no supervision, biasing towards action to r
 Experience in Solidity is a plus
 An incredible benefits package including 100% company paid medical/dental/vision insurance, unlimited paid time off, and access to our future drop
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=AjN5cDN__14nmKw
 --------------------------
 Title: Head of Marketing
-Description: https://web3.career/r/=kTN5cDN__14nmKw
-Link: Role: Head of MarketingLocation: RemoteDuration/Type: FTE/PermanentJob DescriptionThe RoleClient is rapidly growing and we seek presence and voice in the world. We are looking for a competent Head of Marketing to take on full responsibility for the strategy, collaboration, execution, and measurement of PR & Media Relations Campaigns. You will be responsible for developing and executing a comprehensive marketing strategy to raise awareness of the product and their mission to change the social networking landscape. You will work closely with our team of developers and product managers to develop messaging, brand positioning, and marketing campaigns that resonate with our target audience.What You'll Do
+Description: Role: Head of MarketingLocation: RemoteDuration/Type: FTE/PermanentJob DescriptionThe RoleClient is rapidly growing and we seek presence and voice in the world. We are looking for a competent Head of Marketing to take on full responsibility for the strategy, collaboration, execution, and measurement of PR & Media Relations Campaigns. You will be responsible for developing and executing a comprehensive marketing strategy to raise awareness of the product and their mission to change the social networking landscape. You will work closely with our team of developers and product managers to develop messaging, brand positioning, and marketing campaigns that resonate with our target audience.What You'll Do
 Guide the development of a product-focused content marketing program. This will include partnering with experts-within client and beyond-to create a content calendar and editorial plan for materials like blog posts, long form guides, case studies, and more.
 Research, write and edit content for our owned channels, working closely with a range of cross-functional teams-marketing, product, sales, design, and more-to identify compelling stories and topics.
 Partner with the product and BD teams to set goals for content engagement and identify opportunities to amplify and syndicate our content.
@@ -1171,10 +1170,10 @@ Familiarity with SEO strategy and content development best practices is a plus.
 Experience in social media company or developer community is a wonderful plus, but by no means required.
 
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=kTN5cDN__14nmKw
 --------------------------
 Title: Senior Software Developer specializing in crypto operations
-Description: https://web3.career/r/=QTN5cDN__14nmKw
-Link: Technology based cryptocurrency hedge fund seeking qualified operations analyst and senior software developer to help design, operate and manage operations infrastructure. This is an exciting opportunity to get in on the ground floor and join a leading crypto organization in a rapidly evolving and fast pace growth sector. Job position will be an on-site full-time employment position.
+Description: Technology based cryptocurrency hedge fund seeking qualified operations analyst and senior software developer to help design, operate and manage operations infrastructure. This is an exciting opportunity to get in on the ground floor and join a leading crypto organization in a rapidly evolving and fast pace growth sector. Job position will be an on-site full-time employment position.
 
 Qualified candidates need to be able to do all of the following:
 
@@ -1192,10 +1191,10 @@ Their company has offices in Stamford. They have a small team that's between 11-
 
 You can view their website at http://www.blocktower.com
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=QTN5cDN__14nmKw
 --------------------------
 Title: Full Stack Blockchain Developer
-Description: https://web3.career/r/=MTN5cDN__14nmKw
-Link: NDAX is Canada's fastest growing Cryptocurrency exchange. Currently we are looking to hire some fresh and hungry talent to join our blockchain division. If you are a blockchain engineer we need it to do the following.
+Description: NDAX is Canada's fastest growing Cryptocurrency exchange. Currently we are looking to hire some fresh and hungry talent to join our blockchain division. If you are a blockchain engineer we need it to do the following.
 
 Requirements
 
@@ -1239,10 +1238,10 @@ NDAX focuses on Bitcoin, Cryptocurrency, Bitcoin Exchange, and Blockchain / Cryp
 
 You can view their website at https://ndax.io  or find them on Twitter, Facebook, LinkedIn, and Product Hunt.
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=MTN5cDN__14nmKw
 --------------------------
 Title: Sr. Blockchain Engineer, Distributed Systems
-Description: https://web3.career/r/=ETN5cDN__14nmKw
-Link: As a Sr. Blockchain Engineer, Distributed Systems on our team, you will:
+Description: As a Sr. Blockchain Engineer, Distributed Systems on our team, you will:
 
 
 Create or maintain software libraries and programs depended on by other systems and applications
@@ -1295,10 +1294,10 @@ Snickerdoodle Labs focuses on Big Data, Cryptocurrency, Blockchains, and Blockch
 
 You can view their website at https://www.snickerdoodlelabs.io/  or find them on Twitter and LinkedIn.
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=ETN5cDN__14nmKw
 --------------------------
 Title: Blockchain Security Engineer - (Solidity / Rust / Golang - Senior Level)
-Description: https://web3.career/r/=ATN5cDN__14nmKw
-Link: About the Company
+Description: About the Company
 One of the fastest-growing and most trusted companies in blockchain security, CertiK is a true market leader. To date, CertiK has worked with over 3,200 Enterprise clients, secured over $310 billion worth of digital assets, and has detected over 60,000 vulnerabilities in blockchain code. Our clients include leading projects such as Aave, Polygon, Binance Smart Chain, Terra, Yearn, and Chiliz.
 
 Investors = Insight Partners, Sequoia, Tiger Global, Coatue Management, Lightspeed, Advent International, SoftBank, Hillhouse Capital, Goldman Sachs, Coinbase Ventures, Binance, Shunwei Capital, IDG Capital, Wing, Legend Star, Danhua Capital and other investors.
@@ -1356,10 +1355,10 @@ CertiK focuses on Blockchains and Blockchain / Cryptocurrency. Their company has
 
 You can view their website at https://www.certik.com
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=ATN5cDN__14nmKw
 --------------------------
 Title: Blockchain Developer
-Description: https://web3.career/r/=kDN5cDN__14nmKw
-Link: About Antier Solutions
+Description: About Antier Solutions
 
 Antier Solutions is a rapidly growing fintech company with finesse in decentralized finance and custom blockchain consulting services. With a strong foundation in building investment exchanges, we have expanded our services to crypto-friendly banking solutions, asset token development, market making and liquidity pool solutions.
 
@@ -1392,10 +1391,10 @@ Antier Solutions focuses on Blockchain / Cryptocurrency. Their company has offic
 
 You can view their website at https://www.antiersolutions.com/
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=kDN5cDN__14nmKw
 --------------------------
 Title: QA Engineer
-Description: https://web3.career/r/=gDN5cDN__14nmKw
-Link: We are looking for a Quality Assurance (QA) engineer to develop and execute exploratory and automated tests to ensure product quality.
+Description: We are looking for a Quality Assurance (QA) engineer to develop and execute exploratory and automated tests to ensure product quality.
 QA engineer responsibilities include designing and implementing tests, debugging, and defining corrective actions. You will also review system requirements and track quality assurance metrics (e.g. defect densities and open defect counts.)
 The QA technician role plays an important part in our company’s product development process. Our ideal candidate will be responsible for conducting tests before product launches to ensure software runs smoothly and meets client needs while being cost-effective. If you hold an engineering background and enjoy providing end-to-end solutions to software quality problems, we’d like to meet you.
 Ultimately, you should monitor all stages of software development to identify and resolve system malfunctions to meet quality standards.
@@ -1427,10 +1426,10 @@ Experience with performance and/or security testing is a plus
 
 
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=gDN5cDN__14nmKw
 --------------------------
 Title: Communications Specialist (Remote)
-Description: https://web3.career/r/=AzM5cDN__14nmKw
-Link: Founded in 2012, Bitfinex is a digital asset trading platform offering state-of-the-art services for crypto traders and global liquidity providers. We are one of the oldest exchanges and a top 10 player by volumes, with a strong customer base of both institutional and retail customers.
+Description: Founded in 2012, Bitfinex is a digital asset trading platform offering state-of-the-art services for crypto traders and global liquidity providers. We are one of the oldest exchanges and a top 10 player by volumes, with a strong customer base of both institutional and retail customers.
 
 
 
@@ -1493,10 +1492,10 @@ Excellent organizational, planning and project management skills and the ability
 A sound understanding of media needs and media relationships.
 
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=AzM5cDN__14nmKw
 --------------------------
 Title: NFT Community Manager
-Description: https://web3.career/r/=kjM5cDN__14nmKw
-Link: We are ClubRare - The World's first community-centered Physical NFT marketplace for collectors. We connect the Real-world and the Metaverse. We are a community for people who trade the things we love.We are a fully remote company with no fixed headquarters. As a distributed company, we embrace a diverse and inclusive culture that transcends geographical borders. Our team members come from all over the world and bring a rich array of experiences, perspectives, and life>We are deeply committed to fostering a culture of empathy, integrity, strategic thinking, innovation, leadership, and performance. These values drive everything we do, from the way we interact with our community and partners to the way we develop and deliver our products. It's our shared values that give us the strength and drive to become the open metaverse for collectors.What’s in It for You?
+Description: We are ClubRare - The World's first community-centered Physical NFT marketplace for collectors. We connect the Real-world and the Metaverse. We are a community for people who trade the things we love.We are a fully remote company with no fixed headquarters. As a distributed company, we embrace a diverse and inclusive culture that transcends geographical borders. Our team members come from all over the world and bring a rich array of experiences, perspectives, and life>We are deeply committed to fostering a culture of empathy, integrity, strategic thinking, innovation, leadership, and performance. These values drive everything we do, from the way we interact with our community and partners to the way we develop and deliver our products. It's our shared values that give us the strength and drive to become the open metaverse for collectors.What’s in It for You?
 Be a vital member of a cutting-edge project and take your career to the next level.
 Work from anywhere, on your own schedule, and be part of a team that shares your values and has a clear vision.
 Have the chance to shape the future of an innovative new model for cryptocurrency and blockchain applications.
@@ -1534,10 +1533,10 @@ We are an all-remote company but prefer that you have availability during US wor
 
 At ClubRare, we believe that talent knows no boundaries. Our company is built on a foundation of collaboration and teamwork, and we believe that the best ideas can come from anywhere, that's why we encourage you to apply, no matter where you are located.We are committed to creating a work environment that is inclusive and welcoming to all. As an equal-opportunity employer, we do not discriminate on the basis of race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or any other characteristic. We believe that diversity is a source of strength and all qualified candidates will be given equal consideration for employment at ClubRare.Discover more about ClubRare and what we stand for by visiting our website at www.clubrare.xyz
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=kjM5cDN__14nmKw
 --------------------------
 Title: DevOps Engineer
-Description: https://web3.career/r/=YjM5cDN__14nmKw
-Link: Description
+Description: Description
 As our DevOps Engineer, you will be helping us build and maintain blockchain networks and protocols. You will work on improving our current infrastructure including security, automation, and monitoring among other things. You will also have the chance to dive deep into new blockchain protocols, run testnets, build secure and scalable infra and maintain it.
 
 What will you do?
@@ -1578,10 +1577,10 @@ A BSc/BA degree in Computer Science or a relevant field
 
 
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=YjM5cDN__14nmKw
 --------------------------
 Title: Blockchain Engineer
-Description: https://web3.career/r/=kTM5cDN__14nmKw
-Link: Role: Blockchain EngineerLocation: RemoteDuration/Type: FTE/PermanentThe RoleYou will develop the core smart contracts powering client on multiple chains. You will develop puzzles and challenges for developers to crack. You will work closely with a small team and take ownership of important projects from the get-go.Essential Requirements
+Description: Role: Blockchain EngineerLocation: RemoteDuration/Type: FTE/PermanentThe RoleYou will develop the core smart contracts powering client on multiple chains. You will develop puzzles and challenges for developers to crack. You will work closely with a small team and take ownership of important projects from the get-go.Essential Requirements
  3+ years of smart contract development experience
  Love for coding puzzles and challenges
  English fluency (written & oral)
@@ -1595,10 +1594,10 @@ Nice-to-haves
 
 Must HaveRust experience - at least 1 year professional experienceat least 3 years experience in development (smart contracts)working at highly reputable startups/companiesNice To Have (and a Huge Plus)experience with MOVE
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=kTM5cDN__14nmKw
 --------------------------
 Title: Front End Developer (Remote)
-Description: https://web3.career/r/=YTM5cDN__14nmKw
-Link: ScieNFT is a platform that allows scientists to easily transform their scientific assets—including publications, data, educational content, and art—into traceable digital assets using Web3 tools. With blockchain capabilities, smart contract application, NFT technology, and more, ScieNFT brings transparency and data permanence to open source and preprint publishing.Job DescriptionWe are looking for a Front-End Web Developer who is motivated to combine the art of design with the art of programming. Responsibilities will include translation of the UI/UX design wireframes to actual code that will produce visual elements of the application. You will work with the UI/UX designer and bridge the gap between graphical design and technical implementation, taking an active role on both sides and defining how the application looks as well as how it works.Responsibilities
+Description: ScieNFT is a platform that allows scientists to easily transform their scientific assets—including publications, data, educational content, and art—into traceable digital assets using Web3 tools. With blockchain capabilities, smart contract application, NFT technology, and more, ScieNFT brings transparency and data permanence to open source and preprint publishing.Job DescriptionWe are looking for a Front-End Web Developer who is motivated to combine the art of design with the art of programming. Responsibilities will include translation of the UI/UX design wireframes to actual code that will produce visual elements of the application. You will work with the UI/UX designer and bridge the gap between graphical design and technical implementation, taking an active role on both sides and defining how the application looks as well as how it works.Responsibilities
 3+ years of experience with component-based architecture using libraries such as React/Svelte.
 Advanced command of HTML, CSS, and vanilla Javascript.
 Knowledge of TypeScript is a plus.
@@ -1607,4 +1606,190 @@ Familiarity with Browser APIs.
 Value collaboration with Product Designers to deliver pixel-perfect experiences.
 ScieNFT pledges to be a harassment-free and discrimination-free company, committed to equal opportunity. We believe people from different backgrounds, with different identities and experiences, make our product, and our company, better.
  When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=YTM5cDN__14nmKw
+--------------------------
+Title: Public Policy Intern
+Description: At Coinbase, our mission is to increase economic freedom around the world, and we couldn’t do this without hiring the best people. We’re a group of hard-working overachievers who are deeply focused on building the future of finance and Web3 for our users across the globe, whether they’re trading, storing, staking or using crypto. Know those people who always lead the group project? That’s us.There are a few things we look for across all hires we make at Coinbase, regardless of role or team. First, we look for candidates who will thrive in a culture like ours, where we default to trust, embrace feedback, and disrupt ourselves. Second, we expect all employees to commit to our mission-focused approach to our work. Finally, we seek people who are excited to learn about and live crypto, because those are the folks who enjoy the intense moments in our sprint and recharge work culture. We’re a remote-first company looking to hire the absolute best talent all over the world.Ready to #LiveCrypto? Who you are:
+You’ve got positive energy. You’re optimistic about the future and determined to get there. 
+You’re never tired of learning. You want to be a pro in bleeding edge tech like DeFi, NFTs, DAOs, and Web 3.0. 
+You appreciate direct communication. You’re both an active communicator and an eager listener - because let’s face it, you can’t have one without the other. You’re cool with candid feedback and see every setback as an opportunity to grow.
+You can pivot on the fly. Crypto is constantly evolving, so our priorities do, too. What you worked on last month may not be what you work on today, and that excites you. You’re not looking for a boring job.
+You have a “can do” attitude. Our teams create high-quality work on quick timelines. Owning a problem doesn’t scare you, but rather empowers you to take 100% responsibility for achieving our mission.
+You want to be part of a winning team. We’re stronger together, and you’re a person who embraces being pushed out of your comfort zone. 
+Public Policy Intern Our vision is to bring more innovation, efficiency, and equality of opportunity by helping create an open financial system for the world. We are focused on making digital currency accessible to everyone and are guided by two key principles: be the most trusted company in our industry and create products that are easy to use.We are building a world-class legal team to support Coinbase and its affiliates as we continue to expand the company, and we are looking for driven and enthusiastic interns to join the Policy team.Potential Projects & Responsibilities
+Work on a variety of different projects having to do with U.S. or International Policy, government regulations, thought leadership, and community engagement. 
+Draft materials for the Policy team, including short and long-form articles, talking points, social media posts, white papers, and presentation materials. 
+Conduct research that reflects the Policy team’s priorities and contributes to critical policy outcomes.
+Distill and share the Policy team’s perspective internally on key issues. 
+Provide a support function on key deliverables, including drafting, proofreading, data compilation, and other support functions necessary to accomplish critical policy projects. 
+Work within the Policy team and with its cross-functional partners to help manage a number of discrete projects that relate to content creation, stakeholder engagement, government outreach, regulatory affairs, and internal operations. 
+Requirements
+Outgoing college junior or graduate student (recent graduates may also be considered). 
+Excellent verbal and written communication skills, detail-oriented, and highly organized.
+Strong research and writing skills.
+Interest in and knowledge of public policy in the United States, including U.S. laws, government systems, and financial regulation. 
+Self-starter with the ability to learn in a fast-paced environment with minimal supervision
+Able to think critically and come up with creative solutions.
+Enthusiastic about learning new disciplines, especially as it relates to different areas of public policy (US relations, international policy, thought leadership/engagement, etc). 
+Excellent project management skills as necessary to assist various different teams within the Policy group. 
+Interest in blockchain technology and cryptocurrency is a plus.
+ID: P51406Commitment to Equal OpportunityCoinbase is committed to diversity in its workforce and is proud to be an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, sex, gender expression or identity, sexual orientation or any other basis protected by applicable law. Coinbase will also consider for employment qualified applicants with criminal histories in a manner consistent with applicable federal, state and local law. For US applicants, you may view Pay Transparency, Employee Rights and Know Your Rights notices by clicking on their corresponding links. Additionally, Coinbase participates in the E-Verify program in certain locations, as required by law.Coinbase is also committed to providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please send an e-mail to accommodations[at]coinbase.com and let us know the nature of your request and your contact information. For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader (free step by step tutorial can be found here).Global Data Privacy Notice for Job Candidates and ApplicantsDepending on your location, the General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA) may regulate the way we manage the data of job applicants. Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here. By submitting your application, you are agreeing to our use and processing of your data as required. For US applicants only, by submitting your application you are agreeing to arbitration of disputes as outlined here.
+ When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=EDMxgDN__14nmKw
+--------------------------
+Title: Blockchain engineer 
+Description: About OrbofiOrbofi is a groundbreaking AI-generated content engine, specifically designed for Web3, games, and online communities. Our mission is to revolutionize content creation and consumption by leveraging the power of AI. We empower creators, developers, and businesses to generate high-quality, engaging content that captivates their audiences.We're a rapidly growing company seeking a highly skilled and experienced Blockchain Engineer to join our team. If you're passionate about developing cutting-edge blockchain solutions and have a deep understanding of smart contract development on EVM blockchains, we'd love to hear from you!Mission: Boosting Human creativity and human globalizationResponsibilitiesAs a Blockchain Engineer at Orbofi, you'll be responsible for:
+Designing, implementing, and maintaining scalable and secure smart contracts on EVM-based blockchains
+Collaborating with cross-functional teams, including AI/ML engineers, product managers, and designers, to develop and integrate blockchain solutions into Orbofi's AI-generated content engine.
+Researching and staying current on the latest advancements in blockchain technology, decentralized finance (DeFi), and non-fungible tokens (NFTs) to ensure Orbofi's competitive edge.
+Developing and deploying decentralized applications (dApps) that leverage Orbofi's AI-generated content engine.
+Ensuring the security, reliability, and performance of blockchain solutions by conducting thorough testing, code reviews, and audits.
+Creating and maintaining clear documentation for smart contracts, blockchain architecture, and related systems.
+QualificationsTo excel in this role, you'll need:
+A Bachelor's or Master's degree in Computer Science, Engineering, or a related field.
+3+ years of hands-on experience in blockchain development, with a strong focus on smart contract development on EVM-based blockchains.
+Proficiency in Solidity, along with experience in deploying and testing smart contracts using tools like Truffle, Hardhat, and Remix.
+Familiarity with Web3.js or Ethers.js libraries for interacting with blockchain networks.
+Knowledge of blockchain security best practices and experience conducting smart contract audits.
+Experience with other programming languages, such as JavaScript, Python, or Go, is a plus.
+Strong problem-solving, analytical, and communication skills, with the ability to work effectively in a collaborative, fast-paced environment.
+Why Work at OrbofiAt Orbofi, you'll have the opportunity to:
+Drive innovation in the AI-generated content space and make a lasting impact on the Web3 ecosystem.
+Collaborate with a diverse, talented, and passionate team committed to pushing the boundaries of AI and blockchain technology.
+Enjoy a flexible work environment, with opportunities for remote work and a healthy work-life balance.
+Benefit from a competitive compensation package, including equity options and comprehensive benefits.
+Thrive in a culture that values innovation, collaboration, and continuous learning.
+Join the Orbofi TeamIf you're a highly skilled Blockchain Engineer with a passion for shaping the future of AI-generated content and Web3, we'd be thrilled to have you on our team. Apply now and help us redefine content creation in the digital age!To apply, please submit your resume, a cover letter detailing your relevant experience, and any portfolio, GitHub profile, or technical writing showcasing your blockchain development achievements.Orbofi is an equal-opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We offer competitive compensation, a flexible work schedule, great perks and a great mission: Boosting human creativity and human globalization
+ When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=ADMxgDN__14nmKw
+--------------------------
+Title: Rust developer for Web3 Project
+Description: About the role
+
+Dfyn is looking for a rock-start Rust developer for an exciting new product that we are launching. As a key member of the development team, you will have ownership in designing and developing the overall architecture of this hugely disruptive product that will define the future of inter-blockchain communications.
+
+You will be joining a team that has been continuously building and shipping cutting-edge products in the crypto space for almost 6 years now, including two great products this year both of which have returned multiples to investors and initial stakeholders, and are seeing widespread market adoption. The product has the potential to leverage Dfyn’s huge user base and become a leader in this space. Working with the developer core at Dfyn and its affiliated product dev team at Router Protocol, you will be building and scaling a platform that is highly configurable and easy to expand as demanded by the market, with a keen sense of ownership. We are doing some very innovative, cutting-edge stuff with smart contracts, and would love to have a conversation with you and see if there might be a fit.
+
+What you will need?
+
+
+Professional experience designing, architecting, and implementing engineering solutions in production in Rust
+Build back-end web services that interact with blockchains
+Professional experience with Rust (data stores, concurrency, networking, data structures)
+Evaluate and evolve scalability, security, performance, and optimization.
+Familiar with GitHub issues, pr process, and team collaboration.
+Eager to learn and comfortable with working in a fast-paced startup environment.
+Experience in developing solidity contracts is good to have, willingness to learn Blockchain technology is a must
+
+
+You will be part of a highly selective, rock-star team. In addition to a best-in-class package in terms of salary and equity/token compensation, we offer an extremely close-knit, fun, learning-focused work culture, where the only hierarchy is one of the ideas. We are quite serious about our fun, and gadgets and workcations are a constant focus. We can’t wait to tell you about our most recent one in the Himalayas when we speak.
+
+Router Protocol focuses on Blockchains and Web3. Their company has offices in Singapore. They have a small team that's between 11-50 employees. To date, Router Protocol has raised $4.58M of funding; their latest round was closed on December 2021.
+
+You can view their website at https://routerprotocol.com  or find them on Twitter.
+ When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=kTOwgDN__14nmKw
+--------------------------
+Title: Blockchain Core Protocol Engineer
+Description: At Argus Labs, we are shaping the future of video games through applied research in distributed systems and game design. We believe online game worlds should be open and interconnected, rather than closed siloes controlled by platform giants.We are creating a game technology architecture that allows games, marketplaces, public good infrastructures, and user-generated content/platforms to communicate and interoperate seamlessly. As a result, we give game developers more control over their creations and allow players to create content and platform that directly integrates with the game's logic and data.As an applied research lab with an integrated game studio/publisher, we are uniquely positioned to lead the way. We build our own games that are native to our infrastructure. This allows us to fully understand and utilize the capabilities of our platform, resulting in novel game designs built around the platform's unique power and quirks.Backed by the bestWe recently raised $10 million in seed funding led by Haun Ventures ($1.5B crypto fund founded by ex-a16z GP Katie Haun) with participation from angels in tech and gaming such as Elad Gil, Balaji Srinivasan, Siqi Chen, etc.Responsibilities
+Develop and maintain the World Engine, our core blockchain execution layer infrastructure.
+Work closely with game designers and other software engineers to ensure that our technology meets the needs of our games and players
+Continuously improve and optimize the performance, reliability, and scalability of our infrastructure
+Requirements
+3+ years of professional experience as a software engineer, with a focus on distributed systems or backend.
+Strong understanding of distributed systems principles and algorithms
+Proficiency in Go with prior experience shipping production-grade code
+Experience with container orchestration software (Docker, Kubernetes, etc.)
+Experience with blockchain core protocol engineering
+Excellent problem-solving and communication skills
+
+Passion for games and game technology
+
+
+Nice to have
+Proficiency in Rust
+Experience leading an engineering team
+Experience with Cosmos SDK
+Experience with game technology infrastructure development and/or game engine development
+Perks & benefitsFor full-time employees
+A note for the game industry veterans: no crunch :-)
+Flexible PTO (2 weeks required) + holidays
+100% employer-covered medical, dental, and vision insurance
+401k matching
+$1500 desk set-up stipend
+Company retreats
+We’re an equal-opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran, or disability status.
+ When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=cTOwgDN__14nmKw
+--------------------------
+Title: Software Engineer - Web3 / Solidity
+Description: System 9 is a market maker focused on providing fair and transparent liquidity to token projects on centralized exchanges. dAMM finance is a web3 lending protocol, incubated by System 9, that provides loans to market neutral defi institutions. We are looking for motivated, creative, and team-oriented individuals with an interest in web3, trading, or cryptocurrencies to join our growing team as a solidity engineer. By joining System 9, you will have the ability to work in a remote team, share new ideas, and collaborate on projects in the cryptocurrency / web3 space.
+
+Responsibilities
+
+As a solidity engineer, you will be responsible for design, development, and maintenance of dAMM protocol features. This includes frontend and backend work related to dAMM and System 9. You may also assist the trading strategy development team on gas and mev related strategies. You will be working closely with your team and coaching them on best practices and methodologies.
+
+If this sounds like a position you would enjoy, but you don’t meet the qualifications, please apply regardless!
+
+Qualifications
+
+
+2+ years of experience working with solidity
+2+ years of experience a language outside of solidity such as c++, rust, go, python, js/ts
+Experience working with lending pools or dex swaps
+Experience gas optimizing smart contracts
+Experience working with a large codebase
+Experience with a test framework and unit testing methodologies
+Strong technical background, ability to adapt to complex requirements
+Strong communication skills and ability to work in a team environment
+Develop quality code based on the requirements provided
+Experience with REST APIs
+Any experience with a front end framework such as React or svelte kit is a plus
+
+
+ When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=ETMwkzM__14nmKw
+--------------------------
+Title: Developer Relations
+Description: Responsibilities
+
+Advocate the uniqueness and potential of CKB technology and the opportunity of building on CKB.
+Write document and educational content for CKB and tooling.
+Engage with the CKB developer community, including answer questions and provide technical support to the CKB dApp developers, collect/summarize/report developer feedbacks.
+Organize developer community activities.
+Find and support solid dApp developers/teams building applications on CKB.
+
+Minimum Qualifications
+
+Fluent in both English and Chinese, solid writing skills.
+Experience studying or working aboard.
+Participation in the general web3 ecosystem or blockchain project.
+You are a self-starter and hold yourself accountable.
+
+Preferred Qualifications
+
+Solid programming skills and developing experience.
+Experience managing/operating a developer community.
+Passion for building relationships and growing communities online.
+
+Perks
+
+100% remote, contribute from anywhere in the world
+Welcome package & gifts of holidays
+Competitive health insurance
+Leading parental leave policies. Family planning benefits.
+Generous PTO / sick days
+Generous remote work stipends
+Professional development reimbursement
+Sponsored Team Building lunch and snacks
+
+
+
+ When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=YTOwUDN__14nmKw
+--------------------------
+Title: Growth Manager
+Description: Position: Growth ManagerAbout this role:We are seeking an exceptional Growth Manager to join us in our journey within an incredibly fast-paced web3 space. You will be working alongside a passionate team that is heavily experienced in crypto, big tech, and startups. The ideal candidate will: support Head of Growth with the partnership lifecycle (e.g., keeping track of partnership status, following up on next steps, ensuring deliverables have been delivered, etc); Create business development collateral, including decks, financial models, etc; Assist with marketing, social media, PR, and operational aspects of partnerships; Develop reporting and presentations to communicate key findings to senior management; Work with cross-functional team members to deliver high-value results; Analyze competitive web3 landscape and create takeaways for Head of Growth and senior management.Qualifications:·Excellent written and verbal communication skills·Extremely organized·Proficiency with workflow management tools like Asana·Self-starter who works well in a fast-paced environment and comfortable with navigating ambiguity·Analytical mindset, with the ability to distill quantitative and qualitative data into reporting·3 - 5 years minimum work experience at a tech company, startup, bank, consulting firm, marketing agency, etc (although we are open to other backgrounds)More information:- Job type: Full-time- On-site (San Francisco) - Salary Range: $90k - $170kInterview process1-Screening call with hiring manager2-Paid take home assignment3-Final few onsite interviews with several people on our team
+ When applying, mention the word CANDYSHOP to show you read the job post completely.]]>
+Link: https://web3.career/r/=kDMxgDN__14nmKw
 --------------------------
